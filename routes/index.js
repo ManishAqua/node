@@ -1,0 +1,48 @@
+const express = require("express");
+const userRoutes = require('./users');
+const authRoutes = require('./auth');
+const otpRoutes = require('./otp');
+const codeRoutes = require('./code');
+const genderRoutes = require('./gender');
+const heightRoutes = require('./height');
+const countryRoutes = require('./country');
+const stateRoutes = require('./state');
+const cityRoutes = require('./city');
+const loginImageRoutes = require('./loginImage');
+const educationRoutes = require('./education');
+const occupationRoutes = require('./occupation');
+const incomeRoutes = require('./income');
+const martialRoutes = require('./martial');
+const languageRoutes = require('./language');
+const religionRoutes = require('./religion');
+const foodRoutes = require('./food');
+const substanceRoutes = require('./substance');
+const verificationTextRoutes = require('./verificationText');
+const backgroundHeadingRoutes = require('./backgroundHeading');
+const screenVisibilityRoutes = require('./screenVisibility');
+
+const router = express.Router();
+
+router.use('/users', userRoutes);
+router.use('/auth', authRoutes);
+router.use('/otp', otpRoutes);
+router.use('/code', codeRoutes);
+router.use('/gender', genderRoutes);
+router.use('/height', heightRoutes);
+router.use('/country', countryRoutes);
+router.use('/state', stateRoutes);
+router.use('/city', cityRoutes);
+router.use('/loginImage', loginImageRoutes);
+router.use('/education', educationRoutes);
+router.use('/occupation', occupationRoutes);
+router.use('/income', incomeRoutes);
+router.use('/martial', martialRoutes);
+router.use('/language', languageRoutes);
+router.use('/religion', religionRoutes);
+router.use('/food', foodRoutes);
+router.use('/substance', substanceRoutes);
+router.use('/verificationText', verificationTextRoutes);
+router.use('/backgroundHeading', backgroundHeadingRoutes);
+router.use('/screenVisibility', screenVisibilityRoutes);
+
+module.exports = router;

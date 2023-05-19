@@ -1,0 +1,6592 @@
+[
+    {
+        "name": {
+            "common": "Afghanistan",
+            "official": "Islamic Republic of Afghanistan",
+            "nativeName": {
+                "pus": {
+                    "official": "د افغانستان اسلامي جمهوریت",
+                    "common": "افغانستان"
+                }
+            }
+        },
+        "cca2": "AF",
+        "cca3": "AFG",
+        "cioc": "AFG",
+        "currency": [
+            "AFN"
+        ],
+        "callingCode": [
+            "93"
+        ],
+        "capital": "Kabul",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "status": true,
+        "emoji": "🇦🇫"
+    },
+    {
+        "name": {
+            "common": "Albania",
+            "official": "Republic of Albania",
+            "nativeName": {
+                "sqi": {
+                    "official": "Republika e Shqipërisë",
+                    "common": "Shqipëria"
+                }
+            }
+        },
+        "cca2": "AL",
+        "cca3": "ALB",
+        "cioc": "ALB",
+        "currency": [
+            "ALL"
+        ],
+        "callingCode": [
+            "355"
+        ],
+        "capital": "Tirana",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "status": true,
+        "emoji": "🇦🇱"
+    },
+    {
+        "name": {
+            "common": "Algeria",
+            "official": "People's Democratic Republic of Algeria",
+            "nativeName": {
+                "ara": {
+                    "official": "الجمهورية الديمقراطية الشعبية الجزائرية",
+                    "common": "الجزائر"
+                }
+            }
+        },
+        "cca2": "DZ",
+        "cca3": "DZA",
+        "cioc": "ALG",
+        "currency": [
+            "DZD"
+        ],
+        "callingCode": [
+            "213"
+        ],
+        "capital": "Algiers",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "status": true,
+        "emoji": "🇩🇿"
+    },
+    {
+        "name": {
+            "common": "Andorra",
+            "official": "Principality of Andorra",
+            "nativeName": {
+                "cat": {
+                    "official": "Principat d'Andorra",
+                    "common": "Andorra"
+                }
+            }
+        },
+        "cca2": "AD",
+        "cca3": "AND",
+        "cioc": "",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "376"
+        ],
+        "capital": "Andorra la Vella",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "status": true,
+        "emoji": "🇦🇩"
+    },
+    {
+        "name": {
+            "common": "Angola",
+            "official": "Republic of Angola",
+            "nativeName": {
+                "por": {
+                    "official": "República de Angola",
+                    "common": "Angola"
+                }
+            }
+        },
+        "cca2": "AO",
+        "cca3": "AGO",
+        "cioc": "ANG",
+        "currency": [
+            "AOA"
+        ],
+        "callingCode": [
+            "244"
+        ],
+        "capital": "Luanda",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "status": true,
+        "emoji": "🇦🇴"
+    },
+    {
+        "name": {
+            "common": "Antigua and Barbuda",
+            "official": "Antigua and Barbuda",
+            "nativeName": {
+                "eng": {
+                    "official": "Antigua and Barbuda",
+                    "common": "Antigua and Barbuda"
+                }
+            }
+        },
+        "cca2": "AG",
+        "cca3": "ATG",
+        "cioc": "ANT",
+        "currency": [
+            "XCD"
+        ],
+        "callingCode": [
+            "1268"
+        ],
+        "capital": "St. John's",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": true,
+        "emoji": "🇦🇬"
+    },
+    {
+        "name": {
+            "common": "Argentina",
+            "official": "Argentine Republic",
+            "nativeName": {
+                "grn": {
+                    "official": "Argentine Republic",
+                    "common": "Argentina"
+                },
+                "spa": {
+                    "official": "República Argentina",
+                    "common": "Argentina"
+                }
+            }
+        },
+        "cca2": "AR",
+        "cca3": "ARG",
+        "cioc": "ARG",
+        "currency": [
+            "ARS"
+        ],
+        "callingCode": [
+            "54"
+        ],
+        "capital": "Buenos Aires",
+        "region": "Americas",
+        "subregion": "South America",
+        "status": true,
+        "emoji": "🇦🇷"
+    },
+    {
+        "name": {
+            "common": "Armenia",
+            "official": "Republic of Armenia",
+            "nativeName": {
+                "hye": {
+                    "official": "Հայաստանի Հանրապետություն",
+                    "common": "Հայաստան"
+                }
+            }
+        },
+        "cca2": "AM",
+        "cca3": "ARM",
+        "cioc": "ARM",
+        "currency": [
+            "AMD"
+        ],
+        "callingCode": [
+            "374"
+        ],
+        "capital": "Yerevan",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "status": true,
+        "emoji": "🇦🇲"
+    },
+    {
+        "name": {
+            "common": "Australia",
+            "official": "Commonwealth of Australia",
+            "nativeName": {
+                "eng": {
+                    "official": "Commonwealth of Australia",
+                    "common": "Australia"
+                }
+            }
+        },
+        "cca2": "AU",
+        "cca3": "AUS",
+        "cioc": "AUS",
+        "currency": [
+            "AUD"
+        ],
+        "callingCode": [
+            "61"
+        ],
+        "capital": "Canberra",
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "status": true,
+        "emoji": "🇦🇺"
+    },
+    {
+        "name": {
+            "common": "Austria",
+            "official": "Republic of Austria",
+            "nativeName": {
+                "deu": {
+                    "official": "Republik Österreich",
+                    "common": "Österreich"
+                }
+            }
+        },
+        "cca2": "AT",
+        "cca3": "AUT",
+        "cioc": "AUT",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "43"
+        ],
+        "capital": "Vienna",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "status": true,
+        "emoji": "🇦🇹"
+    },
+    {
+        "name": {
+            "common": "Azerbaijan",
+            "official": "Republic of Azerbaijan",
+            "nativeName": {
+                "aze": {
+                    "official": "Azərbaycan Respublikası",
+                    "common": "Azərbaycan"
+                }
+            }
+        },
+        "cca2": "AZ",
+        "cca3": "AZE",
+        "cioc": "AZE",
+        "currency": [
+            "AZN"
+        ],
+        "callingCode": [
+            "994"
+        ],
+        "capital": "Baku",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "status": true,
+        "emoji": "🇦🇿"
+    },
+    {
+        "name": {
+            "common": "Bahamas",
+            "official": "Commonwealth of the Bahamas",
+            "nativeName": {
+                "eng": {
+                    "official": "Commonwealth of the Bahamas",
+                    "common": "Bahamas"
+                }
+            }
+        },
+        "cca2": "BS",
+        "cca3": "BHS",
+        "cioc": "BAH",
+        "currency": [
+            "BSD"
+        ],
+        "callingCode": [
+            "1242"
+        ],
+        "capital": "Nassau",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": true,
+        "emoji": "🇧🇸"
+    },
+    {
+        "name": {
+            "common": "Bahrain",
+            "official": "Kingdom of Bahrain",
+            "nativeName": {
+                "ara": {
+                    "official": "مملكة البحرين",
+                    "common": "‏البحرين"
+                }
+            }
+        },
+        "cca2": "BH",
+        "cca3": "BHR",
+        "cioc": "BRN",
+        "currency": [
+            "BHD"
+        ],
+        "callingCode": [
+            "973"
+        ],
+        "capital": "Manama",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "status": true,
+        "emoji": "🇧🇭"
+    },
+    {
+        "name": {
+            "common": "Bangladesh",
+            "official": "People's Republic of Bangladesh",
+            "nativeName": {
+                "ben": {
+                    "official": "বাংলাদেশ গণপ্রজাতন্ত্রী",
+                    "common": "বাংলাদেশ"
+                }
+            }
+        },
+        "cca2": "BD",
+        "cca3": "BGD",
+        "cioc": "BAN",
+        "currency": [
+            "BDT"
+        ],
+        "callingCode": [
+            "880"
+        ],
+        "capital": "Dhaka",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "status": true,
+        "emoji": "🇧🇩"
+    },
+    {
+        "name": {
+            "common": "Barbados",
+            "official": "Barbados",
+            "nativeName": {
+                "eng": {
+                    "official": "Barbados",
+                    "common": "Barbados"
+                }
+            }
+        },
+        "cca2": "BB",
+        "cca3": "BRB",
+        "cioc": "BAR",
+        "currency": [
+            "BBD"
+        ],
+        "callingCode": [
+            "1246"
+        ],
+        "capital": "Bridgetown",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": true,
+        "emoji": "🇧🇧"
+    },
+    {
+        "name": {
+            "common": "Belarus",
+            "official": "Republic of Belarus",
+            "nativeName": {
+                "bel": {
+                    "official": "Рэспубліка Беларусь",
+                    "common": "Беларусь"
+                },
+                "rus": {
+                    "official": "Республика Беларусь",
+                    "common": "Беларусь"
+                }
+            }
+        },
+        "cca2": "BY",
+        "cca3": "BLR",
+        "cioc": "BLR",
+        "currency": [
+            "BYN"
+        ],
+        "callingCode": [
+            "375"
+        ],
+        "capital": "Minsk",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "status": true,
+        "emoji": "🇧🇾"
+    },
+    {
+        "name": {
+            "common": "Belgium",
+            "official": "Kingdom of Belgium",
+            "nativeName": {
+                "deu": {
+                    "official": "Königreich Belgien",
+                    "common": "Belgien"
+                },
+                "fra": {
+                    "official": "Royaume de Belgique",
+                    "common": "Belgique"
+                },
+                "nld": {
+                    "official": "Koninkrijk België",
+                    "common": "België"
+                }
+            }
+        },
+        "cca2": "BE",
+        "cca3": "BEL",
+        "cioc": "BEL",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "32"
+        ],
+        "capital": "Brussels",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "status": true,
+        "emoji": "🇧🇪"
+    },
+    {
+        "name": {
+            "common": "Belize",
+            "official": "Belize",
+            "nativeName": {
+                "bjz": {
+                    "official": "Belize",
+                    "common": "Belize"
+                },
+                "eng": {
+                    "official": "Belize",
+                    "common": "Belize"
+                },
+                "spa": {
+                    "official": "Belice",
+                    "common": "Belice"
+                }
+            }
+        },
+        "cca2": "BZ",
+        "cca3": "BLZ",
+        "cioc": "BIZ",
+        "currency": [
+            "BZD"
+        ],
+        "callingCode": [
+            "501"
+        ],
+        "capital": "Belmopan",
+        "region": "Americas",
+        "subregion": "Central America",
+        "status": true,
+        "emoji": "🇧🇿"
+    },
+    {
+        "name": {
+            "common": "Benin",
+            "official": "Republic of Benin",
+            "nativeName": {
+                "fra": {
+                    "official": "République du Bénin",
+                    "common": "Bénin"
+                }
+            }
+        },
+        "cca2": "BJ",
+        "cca3": "BEN",
+        "cioc": "BEN",
+        "currency": [
+            "XOF"
+        ],
+        "callingCode": [
+            "229"
+        ],
+        "capital": "Porto-Novo",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "status": true,
+        "emoji": "🇧🇯"
+    },
+    {
+        "name": {
+            "common": "Bhutan",
+            "official": "Kingdom of Bhutan",
+            "nativeName": {
+                "dzo": {
+                    "official": "འབྲུག་ཡུལ་འཕྲིན་ལྷན་རྒྱལ་ཁབ་",
+                    "common": "འབྲུག་ཡུལ་"
+                }
+            }
+        },
+        "cca2": "BT",
+        "cca3": "BTN",
+        "cioc": "BHU",
+        "currency": [
+            "BTN",
+            "INR"
+        ],
+        "callingCode": [
+            "975"
+        ],
+        "capital": "Thimphu",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "status": true,
+        "emoji": "🇧🇹"
+    },
+    {
+        "name": {
+            "common": "Bolivia",
+            "official": "Plurinational State of Bolivia",
+            "nativeName": {
+                "aym": {
+                    "official": "Wuliwya Suyu",
+                    "common": "Wuliwya"
+                },
+                "grn": {
+                    "official": "Tetã Volívia",
+                    "common": "Volívia"
+                },
+                "que": {
+                    "official": "Buliwya Mamallaqta",
+                    "common": "Buliwya"
+                },
+                "spa": {
+                    "official": "Estado Plurinacional de Bolivia",
+                    "common": "Bolivia"
+                }
+            }
+        },
+        "cca2": "BO",
+        "cca3": "BOL",
+        "cioc": "BOL",
+        "currency": [
+            "BOB",
+            "BOV"
+        ],
+        "callingCode": [
+            "591"
+        ],
+        "capital": "Sucre",
+        "region": "Americas",
+        "subregion": "South America",
+        "status": true,
+        "emoji": "🇧🇴"
+    },
+    {
+        "name": {
+            "common": "Bosnia and Herzegovina",
+            "official": "Bosnia and Herzegovina",
+            "nativeName": {
+                "bos": {
+                    "official": "Bosna i Hercegovina",
+                    "common": "Bosna i Hercegovina"
+                },
+                "hrv": {
+                    "official": "Bosna i Hercegovina",
+                    "common": "Bosna i Hercegovina"
+                },
+                "srp": {
+                    "official": "Боснa и Херцеговина",
+                    "common": "Боснa и Херцеговина"
+                }
+            }
+        },
+        "cca2": "BA",
+        "cca3": "BIH",
+        "cioc": "BIH",
+        "currency": [
+            "BAM"
+        ],
+        "callingCode": [
+            "387"
+        ],
+        "capital": "Sarajevo",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "status": true,
+        "emoji": "🇧🇦"
+    },
+    {
+        "name": {
+            "common": "Botswana",
+            "official": "Republic of Botswana",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Botswana",
+                    "common": "Botswana"
+                },
+                "tsn": {
+                    "official": "Lefatshe la Botswana",
+                    "common": "Botswana"
+                }
+            }
+        },
+        "cca2": "BW",
+        "cca3": "BWA",
+        "cioc": "BOT",
+        "currency": [
+            "BWP"
+        ],
+        "callingCode": [
+            "267"
+        ],
+        "capital": "Gaborone",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "status": true,
+        "emoji": "🇧🇼"
+    },
+    {
+        "name": {
+            "common": "Brazil",
+            "official": "Federative Republic of Brazil",
+            "nativeName": {
+                "por": {
+                    "official": "República Federativa do Brasil",
+                    "common": "Brasil"
+                }
+            }
+        },
+        "cca2": "BR",
+        "cca3": "BRA",
+        "cioc": "BRA",
+        "currency": [
+            "BRL"
+        ],
+        "callingCode": [
+            "55"
+        ],
+        "capital": "Brasília",
+        "region": "Americas",
+        "subregion": "South America",
+        "status": true,
+        "emoji": "🇧🇷"
+    },
+    {
+        "name": {
+            "common": "Brunei",
+            "official": "Nation of Brunei, Abode of Peace",
+            "nativeName": {
+                "msa": {
+                    "official": "Nation of Brunei, Abode Damai",
+                    "common": "Negara Brunei Darussalam"
+                }
+            }
+        },
+        "cca2": "BN",
+        "cca3": "BRN",
+        "cioc": "BRU",
+        "currency": [
+            "BND"
+        ],
+        "callingCode": [
+            "673"
+        ],
+        "capital": "Bandar Seri Begawan",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "status": true,
+        "emoji": "🇧🇳"
+    },
+    {
+        "name": {
+            "common": "Bulgaria",
+            "official": "Republic of Bulgaria",
+            "nativeName": {
+                "bul": {
+                    "official": "Република България",
+                    "common": "България"
+                }
+            }
+        },
+        "cca2": "BG",
+        "cca3": "BGR",
+        "cioc": "BUL",
+        "currency": [
+            "BGN"
+        ],
+        "callingCode": [
+            "359"
+        ],
+        "capital": "Sofia",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "status": true,
+        "emoji": "🇧🇬"
+    },
+    {
+        "name": {
+            "common": "Burkina Faso",
+            "official": "Burkina Faso",
+            "nativeName": {
+                "fra": {
+                    "official": "République du Burkina",
+                    "common": "Burkina Faso"
+                }
+            }
+        },
+        "cca2": "BF",
+        "cca3": "BFA",
+        "cioc": "BUR",
+        "currency": [
+            "XOF"
+        ],
+        "callingCode": [
+            "226"
+        ],
+        "capital": "Ouagadougou",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "status": true,
+        "emoji": "🇧🇫"
+    },
+    {
+        "name": {
+            "common": "Burundi",
+            "official": "Republic of Burundi",
+            "nativeName": {
+                "fra": {
+                    "official": "République du Burundi",
+                    "common": "Burundi"
+                },
+                "run": {
+                    "official": "Republika y'Uburundi ",
+                    "common": "Uburundi"
+                }
+            }
+        },
+        "cca2": "BI",
+        "cca3": "BDI",
+        "cioc": "BDI",
+        "currency": [
+            "BIF"
+        ],
+        "callingCode": [
+            "257"
+        ],
+        "capital": "Gitega",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "status": true,
+        "emoji": "🇧🇮"
+    },
+    {
+        "name": {
+            "common": "Cabo Verde",
+            "official": "Republic of Cabo Verde",
+            "nativeName": {
+                "por": {
+                    "official": "República de Cabo Verde",
+                    "common": "Cabo Verde"
+                }
+            }
+        },
+        "cca2": "CV",
+        "cca3": "CPV",
+        "cioc": "CPV",
+        "currency": [
+            "CVE"
+        ],
+        "callingCode": [
+            "238"
+        ],
+        "capital": "Praia",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "status": true,
+        "emoji": "🇨🇻"
+    },
+    {
+        "name": {
+            "common": "Cambodia",
+            "official": "Kingdom of Cambodia",
+            "nativeName": {
+                "khm": {
+                    "official": "ព្រះរាជាណាចក្រកម្ពុជា",
+                    "common": "Kampuchea"
+                }
+            }
+        },
+        "cca2": "KH",
+        "cca3": "KHM",
+        "cioc": "CAM",
+        "currency": [
+            "KHR",
+            "USD"
+        ],
+        "callingCode": [
+            "855"
+        ],
+        "capital": "Phnom Penh",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "status": true,
+        "emoji": "🇰🇭"
+    },
+    {
+        "name": {
+            "common": "Cameroon",
+            "official": "Republic of Cameroon",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Cameroon",
+                    "common": "Cameroon"
+                },
+                "fra": {
+                    "official": "République du Cameroun",
+                    "common": "Cameroun"
+                }
+            }
+        },
+        "cca2": "CM",
+        "cca3": "CMR",
+        "cioc": "CMR",
+        "currency": [
+            "XAF"
+        ],
+        "callingCode": [
+            "237"
+        ],
+        "capital": "Yaoundé",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "status": true,
+        "emoji": "🇨🇲"
+    },
+    {
+        "name": {
+            "common": "Canada",
+            "official": "Canada",
+            "nativeName": {
+                "eng": {
+                    "official": "Canada",
+                    "common": "Canada"
+                },
+                "fra": {
+                    "official": "Canada",
+                    "common": "Canada"
+                }
+            }
+        },
+        "cca2": "CA",
+        "cca3": "CAN",
+        "cioc": "CAN",
+        "currency": [
+            "CAD"
+        ],
+        "callingCode": [
+            "1"
+        ],
+        "capital": "Ottawa",
+        "region": "Americas",
+        "subregion": "Northern America",
+        "status": true,
+        "emoji": "🇨🇦"
+    },
+    {
+        "name": {
+            "common": "Central African Republic",
+            "official": "Central African Republic",
+            "nativeName": {
+                "fra": {
+                    "official": "République centrafricaine",
+                    "common": "République centrafricaine"
+                },
+                "sag": {
+                    "official": "Ködörösêse tî Bêafrîka",
+                    "common": "Bêafrîka"
+                }
+            }
+        },
+        "cca2": "CF",
+        "cca3": "CAF",
+        "cioc": "CAF",
+        "currency": [
+            "XAF"
+        ],
+        "callingCode": [
+            "236"
+        ],
+        "capital": "Bangui",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "status": true,
+        "emoji": "🇨🇫"
+    },
+    {
+        "name": {
+            "common": "Chad",
+            "official": "Republic of Chad",
+            "nativeName": {
+                "ara": {
+                    "official": "جمهورية تشاد",
+                    "common": "تشاد‎"
+                },
+                "fra": {
+                    "official": "République du Tchad",
+                    "common": "Tchad"
+                }
+            }
+        },
+        "cca2": "TD",
+        "cca3": "TCD",
+        "cioc": "CHA",
+        "currency": [
+            "XAF"
+        ],
+        "callingCode": [
+            "235"
+        ],
+        "capital": "N'Djamena",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "status": true,
+        "emoji": "🇹🇩"
+    },
+    {
+        "name": {
+            "common": "Chile",
+            "official": "Republic of Chile",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Chile",
+                    "common": "Chile"
+                }
+            }
+        },
+        "cca2": "CL",
+        "cca3": "CHL",
+        "cioc": "CHI",
+        "currency": [
+            "CLP"
+        ],
+        "callingCode": [
+            "56"
+        ],
+        "capital": "Santiago",
+        "region": "Americas",
+        "subregion": "South America",
+        "status": true,
+        "emoji": "🇨🇱"
+    },
+    {
+        "name": {
+            "common": "China",
+            "official": "People's Republic of China",
+            "nativeName": {
+                "zho": {
+                    "official": "中华人民共和国",
+                    "common": "中国"
+                }
+            }
+        },
+        "cca2": "CN",
+        "cca3": "CHN",
+        "cioc": "CHN",
+        "currency": [
+            "CNY"
+        ],
+        "callingCode": [
+            "86"
+        ],
+        "capital": "Beijing",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "status": true,
+        "emoji": "🇨🇳"
+    },
+    {
+        "name": {
+            "common": "Colombia",
+            "official": "Republic of Colombia",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Colombia",
+                    "common": "Colombia"
+                }
+            }
+        },
+        "cca2": "CO",
+        "cca3": "COL",
+        "cioc": "COL",
+        "currency": [
+            "COP"
+        ],
+        "callingCode": [
+            "57"
+        ],
+        "capital": "Bogotá",
+        "region": "Americas",
+        "subregion": "South America",
+        "status": true,
+        "emoji": "🇨🇴"
+    },
+    {
+        "name": {
+            "common": "Comoros",
+            "official": "Union of the Comoros",
+            "nativeName": {
+                "ara": {
+                    "official": "الاتحاد القمري",
+                    "common": "القمر‎"
+                },
+                "fra": {
+                    "official": "Union des Comores",
+                    "common": "Comores"
+                },
+                "zdj": {
+                    "official": "Udzima wa Komori",
+                    "common": "Komori"
+                }
+            }
+        },
+        "cca2": "KM",
+        "cca3": "COM",
+        "cioc": "COM",
+        "currency": [
+            "KMF"
+        ],
+        "callingCode": [
+            "269"
+        ],
+        "capital": "Moroni",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "status": true,
+        "emoji": "🇰🇲"
+    },
+    {
+        "name": {
+            "common": "Republic of the Congo",
+            "official": "Republic of the Congo",
+            "nativeName": {
+                "fra": {
+                    "official": "République du Congo",
+                    "common": "République du Congo"
+                },
+                "kon": {
+                    "official": "Repubilika ya Kongo",
+                    "common": "Repubilika ya Kongo"
+                },
+                "lin": {
+                    "official": "Republiki ya Kongó",
+                    "common": "Republiki ya Kongó"
+                }
+            }
+        },
+        "cca2": "CG",
+        "cca3": "COG",
+        "cioc": "CGO",
+        "currency": [
+            "XAF"
+        ],
+        "callingCode": [
+            "242"
+        ],
+        "capital": "Brazzaville",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "status": true,
+        "emoji": "🇨🇬"
+    },
+    {
+        "name": {
+            "common": "Costa Rica",
+            "official": "Republic of Costa Rica",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Costa Rica",
+                    "common": "Costa Rica"
+                }
+            }
+        },
+        "cca2": "CR",
+        "cca3": "CRI",
+        "cioc": "CRC",
+        "currency": [
+            "CRC"
+        ],
+        "callingCode": [
+            "506"
+        ],
+        "capital": "San José",
+        "region": "Americas",
+        "subregion": "Central America",
+        "status": true,
+        "emoji": "🇨🇷"
+    },
+    {
+        "name": {
+            "common": "Croatia",
+            "official": "Republic of Croatia",
+            "nativeName": {
+                "hrv": {
+                    "official": "Republika Hrvatska",
+                    "common": "Hrvatska"
+                }
+            }
+        },
+        "cca2": "HR",
+        "cca3": "HRV",
+        "cioc": "CRO",
+        "currency": [
+            "HRK"
+        ],
+        "callingCode": [
+            "385"
+        ],
+        "capital": "Zagreb",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "status": true,
+        "emoji": "🇭🇷"
+    },
+    {
+        "name": {
+            "common": "Cuba",
+            "official": "Republic of Cuba",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Cuba",
+                    "common": "Cuba"
+                }
+            }
+        },
+        "cca2": "CU",
+        "cca3": "CUB",
+        "cioc": "CUB",
+        "currency": [
+            "CUP",
+            "CUC"
+        ],
+        "callingCode": [
+            "53"
+        ],
+        "capital": "Havana",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": true,
+        "emoji": "🇨🇺"
+    },
+    {
+        "name": {
+            "common": "Curaçao",
+            "official": "Country of Curaçao",
+            "nativeName": {
+                "eng": {
+                    "official": "Country of Curaçao",
+                    "common": "Curaçao"
+                },
+                "nld": {
+                    "official": "Land Curaçao",
+                    "common": "Curaçao"
+                },
+                "pap": {
+                    "official": "Pais Kòrsou",
+                    "common": "Pais Kòrsou"
+                }
+            }
+        },
+        "cca2": "CW",
+        "cca3": "CUW",
+        "cioc": "",
+        "currency": [
+            "ANG"
+        ],
+        "callingCode": [
+            "5999"
+        ],
+        "capital": "Willemstad",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": false,
+        "emoji": "🇨🇼"
+    },
+    {
+        "name": {
+            "common": "Cyprus",
+            "official": "Republic of Cyprus",
+            "nativeName": {
+                "ell": {
+                    "official": "Δημοκρατία της Κύπρος",
+                    "common": "Κύπρος"
+                },
+                "tur": {
+                    "official": "Kıbrıs Cumhuriyeti",
+                    "common": "Kıbrıs"
+                }
+            }
+        },
+        "cca2": "CY",
+        "cca3": "CYP",
+        "cioc": "CYP",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "357"
+        ],
+        "capital": "Nicosia",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "status": true,
+        "emoji": "🇨🇾"
+    },
+    {
+        "name": {
+            "common": "Czech Republic",
+            "official": "Czech Republic",
+            "nativeName": {
+                "ces": {
+                    "official": "Česká republika",
+                    "common": "Česká republika"
+                },
+                "slk": {
+                    "official": "Česká republika",
+                    "common": "Česko"
+                }
+            }
+        },
+        "cca2": "CZ",
+        "cca3": "CZE",
+        "cioc": "CZE",
+        "currency": [
+            "CZK"
+        ],
+        "callingCode": [
+            "420"
+        ],
+        "capital": "Prague",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "status": true,
+        "emoji": "🇨🇿"
+    },
+    {
+        "name": {
+            "common": "Ivory Coast",
+            "official": "Republic of Côte d'Ivoire",
+            "nativeName": {
+                "fra": {
+                    "official": "République de Côte d'Ivoire",
+                    "common": "Côte d'Ivoire"
+                }
+            }
+        },
+        "cca2": "CI",
+        "cca3": "CIV",
+        "cioc": "CIV",
+        "currency": [
+            "XOF"
+        ],
+        "callingCode": [
+            "225"
+        ],
+        "capital": "Yamoussoukro",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "status": true,
+        "emoji": "🇨🇮"
+    },
+    {
+        "name": {
+            "common": "Denmark",
+            "official": "Kingdom of Denmark",
+            "nativeName": {
+                "dan": {
+                    "official": "Kongeriget Danmark",
+                    "common": "Danmark"
+                }
+            }
+        },
+        "cca2": "DK",
+        "cca3": "DNK",
+        "cioc": "DEN",
+        "currency": [
+            "DKK"
+        ],
+        "callingCode": [
+            "45"
+        ],
+        "capital": "Copenhagen",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "status": true,
+        "emoji": "🇩🇰"
+    },
+    {
+        "name": {
+            "common": "Djibouti",
+            "official": "Republic of Djibouti",
+            "nativeName": {
+                "ara": {
+                    "official": "جمهورية جيبوتي",
+                    "common": "جيبوتي‎"
+                },
+                "fra": {
+                    "official": "République de Djibouti",
+                    "common": "Djibouti"
+                }
+            }
+        },
+        "cca2": "DJ",
+        "cca3": "DJI",
+        "cioc": "DJI",
+        "currency": [
+            "DJF"
+        ],
+        "callingCode": [
+            "253"
+        ],
+        "capital": "Djibouti",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "status": true,
+        "emoji": "🇩🇯"
+    },
+    {
+        "name": {
+            "common": "Dominica",
+            "official": "Commonwealth of Dominica",
+            "nativeName": {
+                "eng": {
+                    "official": "Commonwealth of Dominica",
+                    "common": "Dominica"
+                }
+            }
+        },
+        "cca2": "DM",
+        "cca3": "DMA",
+        "cioc": "DMA",
+        "currency": [
+            "XCD"
+        ],
+        "callingCode": [
+            "1767"
+        ],
+        "capital": "Roseau",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": true,
+        "emoji": "🇩🇲"
+    },
+    {
+        "name": {
+            "common": "Dominican Republic",
+            "official": "Dominican Republic",
+            "nativeName": {
+                "spa": {
+                    "official": "República Dominicana",
+                    "common": "República Dominicana"
+                }
+            }
+        },
+        "cca2": "DO",
+        "cca3": "DOM",
+        "cioc": "DOM",
+        "currency": [
+            "DOP"
+        ],
+        "callingCode": [
+            "1 809",
+            "1 829",
+            "1 849"
+        ],
+        "capital": "Santo Domingo",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": true,
+        "emoji": "🇩🇴"
+    },
+    {
+        "name": {
+            "common": "Ecuador",
+            "official": "Republic of Ecuador",
+            "nativeName": {
+                "spa": {
+                    "official": "República del Ecuador",
+                    "common": "Ecuador"
+                }
+            }
+        },
+        "cca2": "EC",
+        "cca3": "ECU",
+        "cioc": "ECU",
+        "currency": [
+            "USD"
+        ],
+        "callingCode": [
+            "593"
+        ],
+        "capital": "Quito",
+        "region": "Americas",
+        "subregion": "South America",
+        "status": true,
+        "emoji": "🇪🇨"
+    },
+    {
+        "name": {
+            "common": "Egypt",
+            "official": "Arab Republic of Egypt",
+            "nativeName": {
+                "ara": {
+                    "official": "جمهورية مصر العربية",
+                    "common": "مصر‎"
+                }
+            }
+        },
+        "cca2": "EG",
+        "cca3": "EGY",
+        "cioc": "EGY",
+        "currency": [
+            "EGP"
+        ],
+        "callingCode": [
+            "20"
+        ],
+        "capital": "Cairo",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "status": true,
+        "emoji": "🇪🇬"
+    },
+    {
+        "name": {
+            "common": "El Salvador",
+            "official": "Republic of El Salvador",
+            "nativeName": {
+                "spa": {
+                    "official": "República de El Salvador",
+                    "common": "El Salvador"
+                }
+            }
+        },
+        "cca2": "SV",
+        "cca3": "SLV",
+        "cioc": "ESA",
+        "currency": [
+            "USD"
+        ],
+        "callingCode": [
+            "503"
+        ],
+        "capital": "San Salvador",
+        "region": "Americas",
+        "subregion": "Central America",
+        "status": true,
+        "emoji": "🇸🇻"
+    },
+    {
+        "name": {
+            "common": "Equatorial Guinea",
+            "official": "Republic of Equatorial Guinea",
+            "nativeName": {
+                "fra": {
+                    "official": "République de Guinée équatoriale",
+                    "common": "Guinée équatoriale"
+                },
+                "por": {
+                    "official": "República da Guiné Equatorial",
+                    "common": "Guiné Equatorial"
+                },
+                "spa": {
+                    "official": "República de Guinea Ecuatorial",
+                    "common": "Guinea Ecuatorial"
+                }
+            }
+        },
+        "cca2": "GQ",
+        "cca3": "GNQ",
+        "cioc": "GEQ",
+        "currency": [
+            "XAF"
+        ],
+        "callingCode": [
+            "240"
+        ],
+        "capital": "Malabo",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "status": true,
+        "emoji": "🇬🇶"
+    },
+    {
+        "name": {
+            "common": "Eritrea",
+            "official": "State of Eritrea",
+            "nativeName": {
+                "ara": {
+                    "official": "دولة إرتريا",
+                    "common": "إرتريا‎"
+                },
+                "eng": {
+                    "official": "State of Eritrea",
+                    "common": "Eritrea"
+                },
+                "tir": {
+                    "official": "ሃገረ ኤርትራ",
+                    "common": "ኤርትራ"
+                }
+            }
+        },
+        "cca2": "ER",
+        "cca3": "ERI",
+        "cioc": "ERI",
+        "currency": [
+            "ERN"
+        ],
+        "callingCode": [
+            "291"
+        ],
+        "capital": "Asmara",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "status": true,
+        "emoji": "🇪🇷"
+    },
+    {
+        "name": {
+            "common": "Estonia",
+            "official": "Republic of Estonia",
+            "nativeName": {
+                "est": {
+                    "official": "Eesti Vabariik",
+                    "common": "Eesti"
+                }
+            }
+        },
+        "cca2": "EE",
+        "cca3": "EST",
+        "cioc": "EST",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "372"
+        ],
+        "capital": "Tallinn",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "status": true,
+        "emoji": "🇪🇪"
+    },
+    {
+        "name": {
+            "common": "Eswatini",
+            "official": "Kingdom of Eswatini",
+            "nativeName": {
+                "eng": {
+                    "official": "Kingdom of Eswatini",
+                    "common": "Eswatini"
+                },
+                "ssw": {
+                    "official": "Umbuso weSwatini",
+                    "common": "eSwatini"
+                }
+            }
+        },
+        "cca2": "SZ",
+        "cca3": "SWZ",
+        "cioc": "SWZ",
+        "currency": [
+            "SZL"
+        ],
+        "callingCode": [
+            "268"
+        ],
+        "capital": "Lobamba",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "status": true,
+        "emoji": "🇸🇿"
+    },
+    {
+        "name": {
+            "common": "Ethiopia",
+            "official": "Federal Democratic Republic of Ethiopia",
+            "nativeName": {
+                "amh": {
+                    "official": "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ",
+                    "common": "ኢትዮጵያ"
+                }
+            }
+        },
+        "cca2": "ET",
+        "cca3": "ETH",
+        "cioc": "ETH",
+        "currency": [
+            "ETB"
+        ],
+        "callingCode": [
+            "251"
+        ],
+        "capital": "Addis Ababa",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "status": true,
+        "emoji": "🇪🇹"
+    },
+    {
+        "name": {
+            "common": "Falkland Islands",
+            "official": "Falkland Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "Falkland Islands",
+                    "common": "Falkland Islands"
+                }
+            }
+        },
+        "cca2": "FK",
+        "cca3": "FLK",
+        "cioc": "",
+        "currency": [
+            "FKP"
+        ],
+        "callingCode": [
+            "500"
+        ],
+        "capital": "Stanley",
+        "region": "Americas",
+        "subregion": "South America",
+        "status": false,
+        "emoji": "🇫🇰"
+    },
+    {
+        "name": {
+            "common": "Faroe Islands",
+            "official": "Faroe Islands",
+            "nativeName": {
+                "dan": {
+                    "official": "Færøerne",
+                    "common": "Færøerne"
+                },
+                "fao": {
+                    "official": "Føroyar",
+                    "common": "Føroyar"
+                }
+            }
+        },
+        "cca2": "FO",
+        "cca3": "FRO",
+        "cioc": "",
+        "currency": [
+            "DKK"
+        ],
+        "callingCode": [
+            "298"
+        ],
+        "capital": "Tórshavn",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "status": false,
+        "emoji": "🇫🇴"
+    },
+    {
+        "name": {
+            "common": "Fiji",
+            "official": "Republic of Fiji",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Fiji",
+                    "common": "Fiji"
+                },
+                "fij": {
+                    "official": "Matanitu Tugalala o Viti",
+                    "common": "Viti"
+                },
+                "hif": {
+                    "official": "फ़िजी गणराज्य",
+                    "common": "फ़िजी"
+                }
+            }
+        },
+        "cca2": "FJ",
+        "cca3": "FJI",
+        "cioc": "FIJ",
+        "currency": [
+            "FJD"
+        ],
+        "callingCode": [
+            "679"
+        ],
+        "capital": "Suva",
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "status": true,
+        "emoji": "🇫🇯"
+    },
+    {
+        "name": {
+            "common": "Finland",
+            "official": "Republic of Finland",
+            "nativeName": {
+                "fin": {
+                    "official": "Suomen tasavalta",
+                    "common": "Suomi"
+                },
+                "swe": {
+                    "official": "Republiken Finland",
+                    "common": "Finland"
+                }
+            }
+        },
+        "cca2": "FI",
+        "cca3": "FIN",
+        "cioc": "FIN",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "358"
+        ],
+        "capital": "Helsinki",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "status": true,
+        "emoji": "🇫🇮"
+    },
+    {
+        "name": {
+            "common": "France",
+            "official": "French Republic",
+            "nativeName": {
+                "fra": {
+                    "official": "République française",
+                    "common": "France"
+                }
+            }
+        },
+        "cca2": "FR",
+        "cca3": "FRA",
+        "cioc": "FRA",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "33"
+        ],
+        "capital": "Paris",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "status": true,
+        "emoji": "🇫🇷"
+    },
+    {
+        "name": {
+            "common": "French Guiana",
+            "official": "Guiana",
+            "nativeName": {
+                "fra": {
+                    "official": "Guyane",
+                    "common": "Guyane française"
+                }
+            }
+        },
+        "cca2": "GF",
+        "cca3": "GUF",
+        "cioc": "",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "594"
+        ],
+        "capital": "Cayenne",
+        "region": "Americas",
+        "subregion": "South America",
+        "status": false,
+        "emoji": "🇬🇫"
+    },
+    {
+        "name": {
+            "common": "French Polynesia",
+            "official": "French Polynesia",
+            "nativeName": {
+                "fra": {
+                    "official": "Polynésie française",
+                    "common": "Polynésie française"
+                }
+            }
+        },
+        "cca2": "PF",
+        "cca3": "PYF",
+        "cioc": "",
+        "currency": [
+            "XPF"
+        ],
+        "callingCode": [
+            "689"
+        ],
+        "capital": "Papeetē",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "status": false,
+        "emoji": "🇵🇫"
+    },
+    {
+        "name": {
+            "common": "French Southern Territories",
+            "official": "Territory of the French Southern and Antarctic Lands",
+            "nativeName": {
+                "fra": {
+                    "official": "Territoire des Terres australes et antarctiques françaises",
+                    "common": "Terres australes et antarctiques françaises"
+                }
+            }
+        },
+        "cca2": "TF",
+        "cca3": "ATF",
+        "cioc": "",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [],
+        "capital": "Port-aux-Français",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "status": false,
+        "emoji": "🇹🇫"
+    },
+    {
+        "name": {
+            "common": "Gabon",
+            "official": "Gabonese Republic",
+            "nativeName": {
+                "fra": {
+                    "official": "République gabonaise",
+                    "common": "Gabon"
+                }
+            }
+        },
+        "cca2": "GA",
+        "cca3": "GAB",
+        "cioc": "GAB",
+        "currency": [
+            "XAF"
+        ],
+        "callingCode": [
+            "241"
+        ],
+        "capital": "Libreville",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "status": true,
+        "emoji": "🇬🇦"
+    },
+    {
+        "name": {
+            "common": "Gambia",
+            "official": "Republic of the Gambia",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of the Gambia",
+                    "common": "Gambia"
+                }
+            }
+        },
+        "cca2": "GM",
+        "cca3": "GMB",
+        "cioc": "GAM",
+        "currency": [
+            "GMD"
+        ],
+        "callingCode": [
+            "220"
+        ],
+        "capital": "Banjul",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "status": true,
+        "emoji": "🇬🇲"
+    },
+    {
+        "name": {
+            "common": "Georgia",
+            "official": "Georgia",
+            "nativeName": {
+                "kat": {
+                    "official": "საქართველო",
+                    "common": "საქართველო"
+                }
+            }
+        },
+        "cca2": "GE",
+        "cca3": "GEO",
+        "cioc": "GEO",
+        "currency": [
+            "GEL"
+        ],
+        "callingCode": [
+            "995"
+        ],
+        "capital": "Tbilisi",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "status": true,
+        "emoji": "🇬🇪"
+    },
+    {
+        "name": {
+            "common": "Germany",
+            "official": "Federal Republic of Germany",
+            "nativeName": {
+                "deu": {
+                    "official": "Bundesrepublik Deutschland",
+                    "common": "Deutschland"
+                }
+            }
+        },
+        "cca2": "DE",
+        "cca3": "DEU",
+        "cioc": "GER",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "49"
+        ],
+        "capital": "Berlin",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "status": true,
+        "emoji": "🇩🇪"
+    },
+    {
+        "name": {
+            "common": "Ghana",
+            "official": "Republic of Ghana",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Ghana",
+                    "common": "Ghana"
+                }
+            }
+        },
+        "cca2": "GH",
+        "cca3": "GHA",
+        "cioc": "GHA",
+        "currency": [
+            "GHS"
+        ],
+        "callingCode": [
+            "233"
+        ],
+        "capital": "Accra",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "status": true,
+        "emoji": "🇬🇭"
+    },
+    {
+        "name": {
+            "common": "Gibraltar",
+            "official": "Gibraltar",
+            "nativeName": {
+                "eng": {
+                    "official": "Gibraltar",
+                    "common": "Gibraltar"
+                }
+            }
+        },
+        "cca2": "GI",
+        "cca3": "GIB",
+        "cioc": "",
+        "currency": [
+            "GIP"
+        ],
+        "callingCode": [
+            "350"
+        ],
+        "capital": "Gibraltar",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "status": false,
+        "emoji": "🇬🇮"
+    },
+    {
+        "name": {
+            "common": "Greece",
+            "official": "Hellenic Republic",
+            "nativeName": {
+                "ell": {
+                    "official": "Ελληνική Δημοκρατία",
+                    "common": "Ελλάδα"
+                }
+            }
+        },
+        "cca2": "GR",
+        "cca3": "GRC",
+        "cioc": "GRE",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "30"
+        ],
+        "capital": "Athens",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "status": true,
+        "emoji": "🇬🇷"
+    },
+    {
+        "name": {
+            "common": "Greenland",
+            "official": "Greenland",
+            "nativeName": {
+                "kal": {
+                    "official": "Kalaallit Nunaat",
+                    "common": "Kalaallit Nunaat"
+                }
+            }
+        },
+        "cca2": "GL",
+        "cca3": "GRL",
+        "cioc": "",
+        "currency": [
+            "DKK"
+        ],
+        "callingCode": [
+            "299"
+        ],
+        "capital": "Nuuk",
+        "region": "Americas",
+        "subregion": "Northern America",
+        "status": false,
+        "emoji": "🇬🇱"
+    },
+    {
+        "name": {
+            "common": "Grenada",
+            "official": "Grenada",
+            "nativeName": {
+                "eng": {
+                    "official": "Grenada",
+                    "common": "Grenada"
+                }
+            }
+        },
+        "cca2": "GD",
+        "cca3": "GRD",
+        "cioc": "GRN",
+        "currency": [
+            "XCD"
+        ],
+        "callingCode": [
+            "1473"
+        ],
+        "capital": "St. George's",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": true,
+        "emoji": "🇬🇩"
+    },
+    {
+        "name": {
+            "common": "Guadeloupe",
+            "official": "Guadeloupe",
+            "nativeName": {
+                "fra": {
+                    "official": "Guadeloupe",
+                    "common": "Guadeloupe"
+                }
+            }
+        },
+        "cca2": "GP",
+        "cca3": "GLP",
+        "cioc": "",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "590"
+        ],
+        "capital": "Basse-Terre",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": false,
+        "emoji": "🇬🇵"
+    },
+    {
+        "name": {
+            "common": "Guam",
+            "official": "Guam",
+            "nativeName": {
+                "cha": {
+                    "official": "Guåhån",
+                    "common": "Guåhån"
+                },
+                "eng": {
+                    "official": "Guam",
+                    "common": "Guam"
+                },
+                "spa": {
+                    "official": "Guam",
+                    "common": "Guam"
+                }
+            }
+        },
+        "cca2": "GU",
+        "cca3": "GUM",
+        "cioc": "",
+        "currency": [
+            "USD"
+        ],
+        "callingCode": [
+            "1671"
+        ],
+        "capital": "Hagåtña",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "status": false,
+        "emoji": "🇬🇺"
+    },
+    {
+        "name": {
+            "common": "Guatemala",
+            "official": "Republic of Guatemala",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Guatemala",
+                    "common": "Guatemala"
+                }
+            }
+        },
+        "cca2": "GT",
+        "cca3": "GTM",
+        "cioc": "GUA",
+        "currency": [
+            "GTQ"
+        ],
+        "callingCode": [
+            "502"
+        ],
+        "capital": "Guatemala City",
+        "region": "Americas",
+        "subregion": "Central America",
+        "status": true,
+        "emoji": "🇬🇹"
+    },
+    {
+        "name": {
+            "common": "Guernsey",
+            "official": "Bailiwick of Guernsey",
+            "nativeName": {
+                "eng": {
+                    "official": "Bailiwick of Guernsey",
+                    "common": "Guernsey"
+                },
+                "fra": {
+                    "official": "Bailliage de Guernesey",
+                    "common": "Guernesey"
+                },
+                "nfr": {
+                    "official": "Dgèrnésiais",
+                    "common": "Dgèrnésiais"
+                }
+            }
+        },
+        "cca2": "GG",
+        "cca3": "GGY",
+        "cioc": "",
+        "currency": [
+            "GBP"
+        ],
+        "callingCode": [
+            "44"
+        ],
+        "capital": "St. Peter Port",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "status": false,
+        "emoji": "🇬🇬"
+    },
+    {
+        "name": {
+            "common": "Guinea",
+            "official": "Republic of Guinea",
+            "nativeName": {
+                "fra": {
+                    "official": "République de Guinée",
+                    "common": "Guinée"
+                }
+            }
+        },
+        "cca2": "GN",
+        "cca3": "GIN",
+        "cioc": "GUI",
+        "currency": [
+            "GNF"
+        ],
+        "callingCode": [
+            "224"
+        ],
+        "capital": "Conakry",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "status": true,
+        "emoji": "🇬🇳"
+    },
+    {
+        "name": {
+            "common": "Guinea-Bissau",
+            "official": "Republic of Guinea-Bissau",
+            "nativeName": {
+                "por": {
+                    "official": "República da Guiné-Bissau",
+                    "common": "Guiné-Bissau"
+                }
+            }
+        },
+        "cca2": "GW",
+        "cca3": "GNB",
+        "cioc": "GBS",
+        "currency": [
+            "XOF"
+        ],
+        "callingCode": [
+            "245"
+        ],
+        "capital": "Bissau",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "status": true,
+        "emoji": "🇬🇼"
+    },
+    {
+        "name": {
+            "common": "Guyana",
+            "official": "Co-operative Republic of Guyana",
+            "nativeName": {
+                "eng": {
+                    "official": "Co-operative Republic of Guyana",
+                    "common": "Guyana"
+                }
+            }
+        },
+        "cca2": "GY",
+        "cca3": "GUY",
+        "cioc": "GUY",
+        "currency": [
+            "GYD"
+        ],
+        "callingCode": [
+            "592"
+        ],
+        "capital": "Georgetown",
+        "region": "Americas",
+        "subregion": "South America",
+        "status": true,
+        "emoji": "🇬🇾"
+    },
+    {
+        "name": {
+            "common": "Haiti",
+            "official": "Republic of Haiti",
+            "nativeName": {
+                "fra": {
+                    "official": "République d'Haïti",
+                    "common": "Haïti"
+                },
+                "hat": {
+                    "official": "Repiblik Ayiti",
+                    "common": "Ayiti"
+                }
+            }
+        },
+        "cca2": "HT",
+        "cca3": "HTI",
+        "cioc": "HAI",
+        "currency": [
+            "HTG",
+            "USD"
+        ],
+        "callingCode": [
+            "509"
+        ],
+        "capital": "Port-au-Prince",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": true,
+        "emoji": "🇭🇹"
+    },
+    {
+        "name": {
+            "common": "Heard Island and McDonald Islands",
+            "official": "Heard Island and McDonald Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "Heard Island and McDonald Islands",
+                    "common": "Heard Island and McDonald Islands"
+                }
+            }
+        },
+        "cca2": "HM",
+        "cca3": "HMD",
+        "cioc": "",
+        "currency": [
+            "AUD"
+        ],
+        "callingCode": [
+            ""
+        ],
+        "capital": "",
+        "region": "Antarctica",
+        "subregion": "",
+        "status": false,
+        "emoji": "🇭🇲"
+    },
+    {
+        "name": {
+            "common": "Holy See",
+            "official": "Vatican City State",
+            "nativeName": {
+                "ita": {
+                    "official": "Stato della Città del Vaticano",
+                    "common": "Vaticano"
+                },
+                "lat": {
+                    "official": "Status Civitatis Vaticanæ",
+                    "common": "Sancta Sedes"
+                }
+            }
+        },
+        "cca2": "VA",
+        "cca3": "VAT",
+        "cioc": "",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "3906698",
+            "379"
+        ],
+        "capital": "Vatican City",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "status": false,
+        "emoji": "🇻🇦"
+    },
+    {
+        "name": {
+            "common": "Honduras",
+            "official": "Republic of Honduras",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Honduras",
+                    "common": "Honduras"
+                }
+            }
+        },
+        "cca2": "HN",
+        "cca3": "HND",
+        "cioc": "HON",
+        "currency": [
+            "HNL"
+        ],
+        "callingCode": [
+            "504"
+        ],
+        "capital": "Tegucigalpa",
+        "region": "Americas",
+        "subregion": "Central America",
+        "status": true,
+        "emoji": "🇭🇳"
+    },
+    {
+        "name": {
+            "common": "Hong Kong",
+            "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+            "nativeName": {
+                "eng": {
+                    "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+                    "common": "Hong Kong"
+                },
+                "zho": {
+                    "official": "中华人民共和国香港特别行政区",
+                    "common": "香港"
+                }
+            }
+        },
+        "cca2": "HK",
+        "cca3": "HKG",
+        "cioc": "HKG",
+        "currency": [
+            "HKD"
+        ],
+        "callingCode": [
+            "852"
+        ],
+        "capital": "City of Victoria",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "status": false,
+        "emoji": "🇭🇰"
+    },
+    {
+        "name": {
+            "common": "Hungary",
+            "official": "Hungary",
+            "nativeName": {
+                "hun": {
+                    "official": "Magyarország",
+                    "common": "Magyarország"
+                }
+            }
+        },
+        "cca2": "HU",
+        "cca3": "HUN",
+        "cioc": "HUN",
+        "currency": [
+            "HUF"
+        ],
+        "callingCode": [
+            "36"
+        ],
+        "capital": "Budapest",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "status": true,
+        "emoji": "🇭🇺"
+    },
+    {
+        "name": {
+            "common": "Iceland",
+            "official": "Iceland",
+            "nativeName": {
+                "isl": {
+                    "official": "Ísland",
+                    "common": "Ísland"
+                }
+            }
+        },
+        "cca2": "IS",
+        "cca3": "ISL",
+        "cioc": "ISL",
+        "currency": [
+            "ISK"
+        ],
+        "callingCode": [
+            "354"
+        ],
+        "capital": "Reykjavik",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "status": true,
+        "emoji": "🇮🇸"
+    },
+    {
+        "name": {
+            "common": "India",
+            "official": "Republic of India",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of India",
+                    "common": "India"
+                },
+                "hin": {
+                    "official": "भारत गणराज्य",
+                    "common": "भारत"
+                },
+                "tam": {
+                    "official": "இந்தியக் குடியரசு",
+                    "common": "இந்தியா"
+                }
+            }
+        },
+        "cca2": "IN",
+        "cca3": "IND",
+        "cioc": "IND",
+        "currency": [
+            "INR"
+        ],
+        "callingCode": [
+            "91"
+        ],
+        "capital": "New Delhi",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "status": true,
+        "emoji": "🇮🇳"
+    },
+    {
+        "name": {
+            "common": "Indonesia",
+            "official": "Republic of Indonesia",
+            "nativeName": {
+                "ind": {
+                    "official": "Republik Indonesia",
+                    "common": "Indonesia"
+                }
+            }
+        },
+        "cca2": "ID",
+        "cca3": "IDN",
+        "cioc": "INA",
+        "currency": [
+            "IDR"
+        ],
+        "callingCode": [
+            "62"
+        ],
+        "capital": "Jakarta",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "status": true,
+        "emoji": "🇮🇩"
+    },
+    {
+        "name": {
+            "common": "Iran",
+            "official": "Islamic Republic of Iran",
+            "nativeName": {
+                "fas": {
+                    "official": "جمهوری اسلامی ایران",
+                    "common": "ایران"
+                }
+            }
+        },
+        "cca2": "IR",
+        "cca3": "IRN",
+        "cioc": "IRI",
+        "currency": [
+            "IRR"
+        ],
+        "callingCode": [
+            "98"
+        ],
+        "capital": "Tehran",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "status": true,
+        "emoji": "🇮🇷"
+    },
+    {
+        "name": {
+            "common": "Iraq",
+            "official": "Republic of Iraq",
+            "nativeName": {
+                "ara": {
+                    "official": "جمهورية العراق",
+                    "common": "العراق"
+                },
+                "arc": {
+                    "official": "ܩܘܼܛܢܵܐ ܐܝܼܪܲܩ",
+                    "common": "ܩܘܼܛܢܵܐ ܐܝܼܪܲܩ"
+                },
+                "ckb": {
+                    "official": "کۆماری عێراق",
+                    "common": "عێراق"
+                }
+            }
+        },
+        "cca2": "IQ",
+        "cca3": "IRQ",
+        "cioc": "IRQ",
+        "currency": [
+            "IQD"
+        ],
+        "callingCode": [
+            "964"
+        ],
+        "capital": "Baghdad",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "status": true,
+        "emoji": "🇮🇶"
+    },
+    {
+        "name": {
+            "common": "Ireland",
+            "official": "Republic of Ireland",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Ireland",
+                    "common": "Ireland"
+                },
+                "gle": {
+                    "official": "Poblacht na hÉireann",
+                    "common": "Éire"
+                }
+            }
+        },
+        "cca2": "IE",
+        "cca3": "IRL",
+        "cioc": "IRL",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "353"
+        ],
+        "capital": "Dublin",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "status": true,
+        "emoji": "🇮🇪"
+    },
+    {
+        "name": {
+            "common": "Isle of Man",
+            "official": "Isle of Man",
+            "nativeName": {
+                "eng": {
+                    "official": "Isle of Man",
+                    "common": "Isle of Man"
+                },
+                "glv": {
+                    "official": "Ellan Vannin or Mannin",
+                    "common": "Mannin"
+                }
+            }
+        },
+        "cca2": "IM",
+        "cca3": "IMN",
+        "cioc": "",
+        "currency": [
+            "GBP"
+        ],
+        "callingCode": [
+            "44"
+        ],
+        "capital": "Douglas",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "status": false,
+        "emoji": "🇮🇲"
+    },
+    {
+        "name": {
+            "common": "Israel",
+            "official": "State of Israel",
+            "nativeName": {
+                "ara": {
+                    "official": "دولة إسرائيل",
+                    "common": "إسرائيل"
+                },
+                "heb": {
+                    "official": "מְדִינַת יִשְׂרָאֵל",
+                    "common": "יִשְׂרָאֵל"
+                }
+            }
+        },
+        "cca2": "IL",
+        "cca3": "ISR",
+        "cioc": "ISR",
+        "currency": [
+            "ILS"
+        ],
+        "callingCode": [
+            "972"
+        ],
+        "capital": "Jerusalem",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "status": true,
+        "emoji": "🇮🇱"
+    },
+    {
+        "name": {
+            "common": "Italy",
+            "official": "Italian Republic",
+            "nativeName": {
+                "ita": {
+                    "official": "Repubblica italiana",
+                    "common": "Italia"
+                }
+            }
+        },
+        "cca2": "IT",
+        "cca3": "ITA",
+        "cioc": "ITA",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "39"
+        ],
+        "capital": "Rome",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "status": true,
+        "emoji": "🇮🇹"
+    },
+    {
+        "name": {
+            "common": "Jamaica",
+            "official": "Jamaica",
+            "nativeName": {
+                "eng": {
+                    "official": "Jamaica",
+                    "common": "Jamaica"
+                },
+                "jam": {
+                    "official": "Jamaica",
+                    "common": "Jamaica"
+                }
+            }
+        },
+        "cca2": "JM",
+        "cca3": "JAM",
+        "cioc": "JAM",
+        "currency": [
+            "JMD"
+        ],
+        "callingCode": [
+            "1876"
+        ],
+        "capital": "Kingston",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": true,
+        "emoji": "🇯🇲"
+    },
+    {
+        "name": {
+            "common": "Japan",
+            "official": "Japan",
+            "nativeName": {
+                "jpn": {
+                    "official": "日本",
+                    "common": "日本"
+                }
+            }
+        },
+        "cca2": "JP",
+        "cca3": "JPN",
+        "cioc": "JPN",
+        "currency": [
+            "JPY"
+        ],
+        "callingCode": [
+            "81"
+        ],
+        "capital": "Tokyo",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "status": true,
+        "emoji": "🇯🇵"
+    },
+    {
+        "name": {
+            "common": "Jersey",
+            "official": "Bailiwick of Jersey",
+            "nativeName": {
+                "eng": {
+                    "official": "Bailiwick of Jersey",
+                    "common": "Jersey"
+                },
+                "fra": {
+                    "official": "Bailliage de Jersey",
+                    "common": "Jersey"
+                },
+                "nrf": {
+                    "official": "Bailliage dé Jèrri",
+                    "common": "Jèrri"
+                }
+            }
+        },
+        "cca2": "JE",
+        "cca3": "JEY",
+        "cioc": "",
+        "currency": [
+            "GBP"
+        ],
+        "callingCode": [
+            "44"
+        ],
+        "capital": "Saint Helier",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "status": false,
+        "emoji": "🇯🇪"
+    },
+    {
+        "name": {
+            "common": "Jordan",
+            "official": "Hashemite Kingdom of Jordan",
+            "nativeName": {
+                "ara": {
+                    "official": "المملكة الأردنية الهاشمية",
+                    "common": "الأردن"
+                }
+            }
+        },
+        "cca2": "JO",
+        "cca3": "JOR",
+        "cioc": "JOR",
+        "currency": [
+            "JOD"
+        ],
+        "callingCode": [
+            "962"
+        ],
+        "capital": "Amman",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "status": true,
+        "emoji": "🇯🇴"
+    },
+    {
+        "name": {
+            "common": "Kazakhstan",
+            "official": "Republic of Kazakhstan",
+            "nativeName": {
+                "kaz": {
+                    "official": "Қазақстан Республикасы",
+                    "common": "Қазақстан"
+                },
+                "rus": {
+                    "official": "Республика Казахстан",
+                    "common": "Казахстан"
+                }
+            }
+        },
+        "cca2": "KZ",
+        "cca3": "KAZ",
+        "cioc": "KAZ",
+        "currency": [
+            "KZT"
+        ],
+        "callingCode": [
+            "76",
+            "77"
+        ],
+        "capital": "Astana",
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "status": true,
+        "emoji": "🇰🇿"
+    },
+    {
+        "name": {
+            "common": "Kenya",
+            "official": "Republic of Kenya",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Kenya",
+                    "common": "Kenya"
+                },
+                "swa": {
+                    "official": "Republic of Kenya",
+                    "common": "Kenya"
+                }
+            }
+        },
+        "cca2": "KE",
+        "cca3": "KEN",
+        "cioc": "KEN",
+        "currency": [
+            "KES"
+        ],
+        "callingCode": [
+            "254"
+        ],
+        "capital": "Nairobi",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "status": true,
+        "emoji": "🇰🇪"
+    },
+    {
+        "name": {
+            "common": "Kiribati",
+            "official": "Independent and Sovereign Republic of Kiribati",
+            "nativeName": {
+                "eng": {
+                    "official": "Independent and Sovereign Republic of Kiribati",
+                    "common": "Kiribati"
+                },
+                "gil": {
+                    "official": "Ribaberiki Kiribati",
+                    "common": "Kiribati"
+                }
+            }
+        },
+        "cca2": "KI",
+        "cca3": "KIR",
+        "cioc": "KIR",
+        "currency": [
+            "AUD",
+            "NZD"
+        ],
+        "callingCode": [
+            "686"
+        ],
+        "capital": "South Tarawa",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "status": true,
+        "emoji": "🇰🇮"
+    },
+    {
+        "name": {
+            "common": "Kuwait",
+            "official": "State of Kuwait",
+            "nativeName": {
+                "ara": {
+                    "official": "دولة الكويت",
+                    "common": "الكويت"
+                }
+            }
+        },
+        "cca2": "KW",
+        "cca3": "KWT",
+        "cioc": "KUW",
+        "currency": [
+            "KWD"
+        ],
+        "callingCode": [
+            "965"
+        ],
+        "capital": "Kuwait City",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "status": true,
+        "emoji": "🇰🇼"
+    },
+    {
+        "name": {
+            "common": "Kyrgyzstan",
+            "official": "Kyrgyz Republic",
+            "nativeName": {
+                "kir": {
+                    "official": "Кыргыз Республикасы",
+                    "common": "Кыргызстан"
+                },
+                "rus": {
+                    "official": "Кыргызская Республика",
+                    "common": "Киргизия"
+                }
+            }
+        },
+        "cca2": "KG",
+        "cca3": "KGZ",
+        "cioc": "KGZ",
+        "currency": [
+            "KGS"
+        ],
+        "callingCode": [
+            "996"
+        ],
+        "capital": "Bishkek",
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "status": true,
+        "emoji": "🇰🇬"
+    },
+    {
+        "name": {
+            "common": "Laos",
+            "official": "Lao People's Democratic Republic",
+            "nativeName": {
+                "lao": {
+                    "official": "ປະເທດລາວປະຊາມາຍພັກລາວ",
+                    "common": "ສປປລາວ"
+                }
+            }
+        },
+        "cca2": "LA",
+        "cca3": "LAO",
+        "cioc": "LAO",
+        "currency": [
+            "LAK"
+        ],
+        "callingCode": [
+            "856"
+        ],
+        "capital": "Vientiane",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "status": true,
+        "emoji": "🇱🇦"
+    },
+    {
+        "name": {
+            "common": "Latvia",
+            "official": "Republic of Latvia",
+            "nativeName": {
+                "lav": {
+                    "official": "Latvijas Republikas",
+                    "common": "Latvija"
+                }
+            }
+        },
+        "cca2": "LV",
+        "cca3": "LVA",
+        "cioc": "LAT",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "371"
+        ],
+        "capital": "Riga",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "status": true,
+        "emoji": "🇱🇻"
+    },
+    {
+        "name": {
+            "common": "Lebanon",
+            "official": "Lebanese Republic",
+            "nativeName": {
+                "ara": {
+                    "official": "الجمهورية اللبنانية",
+                    "common": "لبنان"
+                },
+                "fra": {
+                    "official": "République libanaise",
+                    "common": "Liban"
+                }
+            }
+        },
+        "cca2": "LB",
+        "cca3": "LBN",
+        "cioc": "LIB",
+        "currency": [
+            "LBP"
+        ],
+        "callingCode": [
+            "961"
+        ],
+        "capital": "Beirut",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "status": true,
+        "emoji": "🇱🇧"
+    },
+    {
+        "name": {
+            "common": "Lesotho",
+            "official": "Kingdom of Lesotho",
+            "nativeName": {
+                "eng": {
+                    "official": "Kingdom of Lesotho",
+                    "common": "Lesotho"
+                },
+                "sot": {
+                    "official": "Muso oa Lesotho",
+                    "common": "Lesotho"
+                }
+            }
+        },
+        "cca2": "LS",
+        "cca3": "LSO",
+        "cioc": "LES",
+        "currency": [
+            "LSL",
+            "ZAR"
+        ],
+        "callingCode": [
+            "266"
+        ],
+        "capital": "Maseru",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "status": true,
+        "emoji": "🇱🇸"
+    },
+    {
+        "name": {
+            "common": "Liberia",
+            "official": "Republic of Liberia",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Liberia",
+                    "common": "Liberia"
+                }
+            }
+        },
+        "cca2": "LR",
+        "cca3": "LBR",
+        "cioc": "LBR",
+        "currency": [
+            "LRD"
+        ],
+        "callingCode": [
+            "231"
+        ],
+        "capital": "Monrovia",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "status": true,
+        "emoji": "🇱🇷"
+    },
+    {
+        "name": {
+            "common": "Libya",
+            "official": "State of Libya",
+            "nativeName": {
+                "ara": {
+                    "official": "دولة ليبيا",
+                    "common": "‏ليبيا"
+                }
+            }
+        },
+        "cca2": "LY",
+        "cca3": "LBY",
+        "cioc": "LBA",
+        "currency": [
+            "LYD"
+        ],
+        "callingCode": [
+            "218"
+        ],
+        "capital": "Tripoli",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "status": true,
+        "emoji": "🇱🇾"
+    },
+    {
+        "name": {
+            "common": "Liechtenstein",
+            "official": "Principality of Liechtenstein",
+            "nativeName": {
+                "deu": {
+                    "official": "Fürstentum Liechtenstein",
+                    "common": "Liechtenstein"
+                }
+            }
+        },
+        "cca2": "LI",
+        "cca3": "LIE",
+        "cioc": "LIE",
+        "currency": [
+            "CHF"
+        ],
+        "callingCode": [
+            "423"
+        ],
+        "capital": "Vaduz",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "status": true,
+        "emoji": "🇱🇮"
+    },
+    {
+        "name": {
+            "common": "Lithuania",
+            "official": "Republic of Lithuania",
+            "nativeName": {
+                "lit": {
+                    "official": "Lietuvos Respublikos",
+                    "common": "Lietuva"
+                }
+            }
+        },
+        "cca2": "LT",
+        "cca3": "LTU",
+        "cioc": "LTU",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "370"
+        ],
+        "capital": "Vilnius",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "status": true,
+        "emoji": "🇱🇹"
+    },
+    {
+        "name": {
+            "common": "Luxembourg",
+            "official": "Grand Duchy of Luxembourg",
+            "nativeName": {
+                "deu": {
+                    "official": "Großherzogtum Luxemburg",
+                    "common": "Luxemburg"
+                },
+                "fra": {
+                    "official": "Grand-Duché de Luxembourg",
+                    "common": "Luxembourg"
+                },
+                "ltz": {
+                    "official": "Groussherzogtum Lëtzebuerg",
+                    "common": "Lëtzebuerg"
+                }
+            }
+        },
+        "cca2": "LU",
+        "cca3": "LUX",
+        "cioc": "LUX",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "352"
+        ],
+        "capital": "Luxembourg",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "status": true,
+        "emoji": "🇱🇺"
+    },
+    {
+        "name": {
+            "common": "Macau",
+            "official": "Macao Special Administrative Region of the People's Republic of China",
+            "nativeName": {
+                "por": {
+                    "official": "Região Administrativa Especial de Macau da República Popular da China",
+                    "common": "Macau"
+                },
+                "zho": {
+                    "official": "中华人民共和国澳门特别行政区",
+                    "common": "澳门"
+                }
+            }
+        },
+        "cca2": "MO",
+        "cca3": "MAC",
+        "cioc": "",
+        "currency": [
+            "MOP"
+        ],
+        "callingCode": [
+            "853"
+        ],
+        "capital": "",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "status": true,
+        "emoji": "🇲🇴"
+    },
+    {
+        "name": {
+            "common": "Madagascar",
+            "official": "Republic of Madagascar",
+            "nativeName": {
+                "fra": {
+                    "official": "République de Madagascar",
+                    "common": "Madagascar"
+                },
+                "mlg": {
+                    "official": "Repoblikan'i Madagasikara",
+                    "common": "Madagasikara"
+                }
+            }
+        },
+        "cca2": "MG",
+        "cca3": "MDG",
+        "cioc": "MAD",
+        "currency": [
+            "MGA"
+        ],
+        "callingCode": [
+            "261"
+        ],
+        "capital": "Antananarivo",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "status": true,
+        "emoji": "🇲🇬"
+    },
+    {
+        "name": {
+            "common": "Malawi",
+            "official": "Republic of Malawi",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Malawi",
+                    "common": "Malawi"
+                },
+                "nya": {
+                    "official": "Chalo cha Malawi, Dziko la Malaŵi",
+                    "common": "Malaŵi"
+                }
+            }
+        },
+        "cca2": "MW",
+        "cca3": "MWI",
+        "cioc": "MAW",
+        "currency": [
+            "MWK"
+        ],
+        "callingCode": [
+            "265"
+        ],
+        "capital": "Lilongwe",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "status": true,
+        "emoji": "🇲🇼"
+    },
+    {
+        "name": {
+            "common": "Malaysia",
+            "official": "Malaysia",
+            "nativeName": {
+                "eng": {
+                    "official": "Malaysia",
+                    "common": "Malaysia"
+                },
+                "msa": {
+                    "official": "مليسيا",
+                    "common": "Malaysia"
+                }
+            }
+        },
+        "cca2": "MY",
+        "cca3": "MYS",
+        "cioc": "MAS",
+        "currency": [
+            "MYR"
+        ],
+        "callingCode": [
+            "60"
+        ],
+        "capital": "Kuala Lumpur",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "status": true,
+        "emoji": "🇲🇾"
+    },
+    {
+        "name": {
+            "common": "Maldives",
+            "official": "Republic of the Maldives",
+            "nativeName": {
+                "div": {
+                    "official": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
+                    "common": "ދިވެހިރާއްޖޭގެ"
+                }
+            }
+        },
+        "cca2": "MV",
+        "cca3": "MDV",
+        "cioc": "MDV",
+        "currency": [
+            "MVR"
+        ],
+        "callingCode": [
+            "960"
+        ],
+        "capital": "Malé",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "status": true,
+        "emoji": "🇲🇻"
+    },
+    {
+        "name": {
+            "common": "Mali",
+            "official": "Republic of Mali",
+            "nativeName": {
+                "fra": {
+                    "official": "République du Mali",
+                    "common": "Mali"
+                }
+            }
+        },
+        "cca2": "ML",
+        "cca3": "MLI",
+        "cioc": "MLI",
+        "currency": [
+            "XOF"
+        ],
+        "callingCode": [
+            "223"
+        ],
+        "capital": "Bamako",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "status": true,
+        "emoji": "🇲🇱"
+    },
+    {
+        "name": {
+            "common": "Malta",
+            "official": "Republic of Malta",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Malta",
+                    "common": "Malta"
+                },
+                "mlt": {
+                    "official": "Repubblika ta ' Malta",
+                    "common": "Malta"
+                }
+            }
+        },
+        "cca2": "MT",
+        "cca3": "MLT",
+        "cioc": "MLT",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "356"
+        ],
+        "capital": "Valletta",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "status": true,
+        "emoji": "🇲🇹"
+    },
+    {
+        "name": {
+            "common": "Marshall Islands",
+            "official": "Republic of the Marshall Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of the Marshall Islands",
+                    "common": "Marshall Islands"
+                },
+                "mah": {
+                    "official": "Republic of the Marshall Islands",
+                    "common": "M̧ajeļ"
+                }
+            }
+        },
+        "cca2": "MH",
+        "cca3": "MHL",
+        "cioc": "MHL",
+        "currency": [
+            "USD"
+        ],
+        "callingCode": [
+            "692"
+        ],
+        "capital": "Majuro",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "status": true,
+        "emoji": "🇲🇭"
+    },
+    {
+        "name": {
+            "common": "Martinique",
+            "official": "Martinique",
+            "nativeName": {
+                "fra": {
+                    "official": "Martinique",
+                    "common": "Martinique"
+                }
+            }
+        },
+        "cca2": "MQ",
+        "cca3": "MTQ",
+        "cioc": "",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "596"
+        ],
+        "capital": "Fort-de-France",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": false,
+        "emoji": "🇲🇶"
+    },
+    {
+        "name": {
+            "common": "Mauritania",
+            "official": "Islamic Republic of Mauritania",
+            "nativeName": {
+                "ara": {
+                    "official": "الجمهورية الإسلامية الموريتانية",
+                    "common": "موريتانيا"
+                }
+            }
+        },
+        "cca2": "MR",
+        "cca3": "MRT",
+        "cioc": "MTN",
+        "currency": [
+            "MRU"
+        ],
+        "callingCode": [
+            "222"
+        ],
+        "capital": "Nouakchott",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "status": true,
+        "emoji": "🇲🇷"
+    },
+    {
+        "name": {
+            "common": "Mauritius",
+            "official": "Republic of Mauritius",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Mauritius",
+                    "common": "Mauritius"
+                },
+                "fra": {
+                    "official": "République de Maurice",
+                    "common": "Maurice"
+                },
+                "mfe": {
+                    "official": "Republik Moris",
+                    "common": "Moris"
+                }
+            }
+        },
+        "cca2": "MU",
+        "cca3": "MUS",
+        "cioc": "MRI",
+        "currency": [
+            "MUR"
+        ],
+        "callingCode": [
+            "230"
+        ],
+        "capital": "Port Louis",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "status": true,
+        "emoji": "🇲🇺"
+    },
+    {
+        "name": {
+            "common": "Mayotte",
+            "official": "Department of Mayotte",
+            "nativeName": {
+                "fra": {
+                    "official": "Département de Mayotte",
+                    "common": "Mayotte"
+                }
+            }
+        },
+        "cca2": "YT",
+        "cca3": "MYT",
+        "cioc": "",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "262"
+        ],
+        "capital": "Mamoudzou",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "status": false,
+        "emoji": "🇾🇹"
+    },
+    {
+        "name": {
+            "common": "Mexico",
+            "official": "United Mexican States",
+            "nativeName": {
+                "spa": {
+                    "official": "Estados Unidos Mexicanos",
+                    "common": "México"
+                }
+            }
+        },
+        "cca2": "MX",
+        "cca3": "MEX",
+        "cioc": "MEX",
+        "currency": [
+            "MXN"
+        ],
+        "callingCode": [
+            "52"
+        ],
+        "capital": "Mexico City",
+        "region": "Americas",
+        "subregion": "Central America",
+        "status": true,
+        "emoji": "🇲🇽"
+    },
+    {
+        "name": {
+            "common": "Micronesia",
+            "official": "Federated States of Micronesia",
+            "nativeName": {
+                "eng": {
+                    "official": "Federated States of Micronesia",
+                    "common": "Micronesia"
+                }
+            }
+        },
+        "cca2": "FM",
+        "cca3": "FSM",
+        "cioc": "FSM",
+        "currency": [
+            "USD"
+        ],
+        "callingCode": [
+            "691"
+        ],
+        "capital": "Palikir",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "status": true,
+        "emoji": "🇫🇲"
+    },
+    {
+        "name": {
+            "common": "Moldova",
+            "official": "Republic of Moldova",
+            "nativeName": {
+                "ron": {
+                    "official": "Republica Moldova",
+                    "common": "Moldova"
+                }
+            }
+        },
+        "cca2": "MD",
+        "cca3": "MDA",
+        "cioc": "MDA",
+        "currency": [
+            "MDL"
+        ],
+        "callingCode": [
+            "373"
+        ],
+        "capital": "Chișinău",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "status": true,
+        "emoji": "🇲🇩"
+    },
+    {
+        "name": {
+            "common": "Monaco",
+            "official": "Principality of Monaco",
+            "nativeName": {
+                "fra": {
+                    "official": "Principauté de Monaco",
+                    "common": "Monaco"
+                }
+            }
+        },
+        "cca2": "MC",
+        "cca3": "MCO",
+        "cioc": "MON",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "377"
+        ],
+        "capital": "Monaco",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "status": true,
+        "emoji": "🇲🇨"
+    },
+    {
+        "name": {
+            "common": "Mongolia",
+            "official": "Mongolia",
+            "nativeName": {
+                "mon": {
+                    "official": "Монгол улс",
+                    "common": "Монгол улс"
+                }
+            }
+        },
+        "cca2": "MN",
+        "cca3": "MNG",
+        "cioc": "MGL",
+        "currency": [
+            "MNT"
+        ],
+        "callingCode": [
+            "976"
+        ],
+        "capital": "Ulan Bator",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "status": true,
+        "emoji": "🇲🇳"
+    },
+    {
+        "name": {
+            "common": "Montenegro",
+            "official": "Montenegro",
+            "nativeName": {
+                "official": "Црна Гора",
+                "common": "Црна Гора"
+            }
+        },
+        "cca2": "ME",
+        "cca3": "MNE",
+        "cioc": "MNE",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "382"
+        ],
+        "capital": "Podgorica",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "status": true,
+        "emoji": "🇲🇪"
+    },
+    {
+        "name": {
+            "common": "Montserrat",
+            "official": "Montserrat",
+            "nativeName": {
+                "eng": {
+                    "official": "Montserrat",
+                    "common": "Montserrat"
+                }
+            }
+        },
+        "cca2": "MS",
+        "cca3": "MSR",
+        "cioc": "",
+        "currency": [
+            "XCD"
+        ],
+        "callingCode": [
+            "1664"
+        ],
+        "capital": "Plymouth",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": false,
+        "emoji": "🇲🇸"
+    },
+    {
+        "name": {
+            "common": "Morocco",
+            "official": "Kingdom of Morocco",
+            "nativeName": {
+                "ara": {
+                    "official": "المملكة المغربية",
+                    "common": "المغرب"
+                },
+                "ber": {
+                    "official": "Tageldit n Muger",
+                    "common": "ⵜⴰⴳⵍⴷⵉⵜ"
+                },
+                "fra": {
+                    "official": "Royaume du Maroc",
+                    "common": "Maroc"
+                }
+            }
+        },
+        "cca2": "MA",
+        "cca3": "MAR",
+        "cioc": "MAR",
+        "currency": [
+            "MAD"
+        ],
+        "callingCode": [
+            "212"
+        ],
+        "capital": "Rabat",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "status": true,
+        "emoji": "🇲🇦"
+    },
+    {
+        "name": {
+            "common": "Mozambique",
+            "official": "Republic of Mozambique",
+            "nativeName": {
+                "por": {
+                    "official": "República de Moçambique",
+                    "common": "Moçambique"
+                }
+            }
+        },
+        "cca2": "MZ",
+        "cca3": "MOZ",
+        "cioc": "MOZ",
+        "currency": [
+            "MZN"
+        ],
+        "callingCode": [
+            "258"
+        ],
+        "capital": "Maputo",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "status": true,
+        "emoji": "🇲🇿"
+    },
+    {
+        "name": {
+            "common": "Myanmar",
+            "official": "Republic of the Union of Myanmar",
+            "nativeName": {
+                "mya": {
+                    "official": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတပြည်ထောင်စု",
+                    "common": "မြန်မာ"
+                }
+            }
+        },
+        "cca2": "MM",
+        "cca3": "MMR",
+        "cioc": "MYA",
+        "currency": [
+            "MMK"
+        ],
+        "callingCode": [
+            "95"
+        ],
+        "capital": "Naypyidaw",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "status": true,
+        "emoji": "🇲🇲"
+    },
+    {
+        "name": {
+            "common": "Namibia",
+            "official": "Republic of Namibia",
+            "nativeName": {
+                "afr": {
+                    "official": "Republiek van Namibië",
+                    "common": "Namibië"
+                },
+                "deu": {
+                    "official": "Republik Namibia",
+                    "common": "Namibia"
+                },
+                "eng": {
+                    "official": "Republic of Namibia",
+                    "common": "Namibia"
+                },
+                "her": {
+                    "official": "Republic of Namibia",
+                    "common": "Namibia"
+                },
+                "hgm": {
+                    "official": "Republic of Namibia",
+                    "common": "Namibia"
+                },
+                "kwn": {
+                    "official": "Republic of Namibia",
+                    "common": "Namibia"
+                },
+                "loz": {
+                    "official": "Republic of Namibia",
+                    "common": "Namibia"
+                },
+                "ndo": {
+                    "official": "Republic of Namibia",
+                    "common": "Namibia"
+                },
+                "tsn": {
+                    "official": "Lefatshe la Namibia",
+                    "common": "Namibia"
+                }
+            }
+        },
+        "cca2": "NA",
+        "cca3": "NAM",
+        "cioc": "NAM",
+        "currency": [
+            "NAD",
+            "ZAR"
+        ],
+        "callingCode": [
+            "264"
+        ],
+        "capital": "Windhoek",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "status": true,
+        "emoji": "🇳🇦"
+    },
+    {
+        "name": {
+            "common": "Nauru",
+            "official": "Republic of Nauru",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Nauru",
+                    "common": "Nauru"
+                },
+                "nau": {
+                    "official": "Republic of Nauru",
+                    "common": "Nauru"
+                }
+            }
+        },
+        "cca2": "NR",
+        "cca3": "NRU",
+        "cioc": "NRU",
+        "currency": [
+            "AUD"
+        ],
+        "callingCode": [
+            "674"
+        ],
+        "capital": "Yaren",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "status": true,
+        "emoji": "🇳🇷"
+    },
+    {
+        "name": {
+            "common": "Nepal",
+            "official": "Federal Democratic Republic of Nepal",
+            "nativeName": {
+                "nep": {
+                    "official": "नेपाल संघीय लोकतान्त्रिक गणतन्त्र",
+                    "common": "नेपाल"
+                }
+            }
+        },
+        "cca2": "NP",
+        "cca3": "NPL",
+        "cioc": "NEP",
+        "currency": [
+            "NPR"
+        ],
+        "callingCode": [
+            "977"
+        ],
+        "capital": "Kathmandu",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "status": true,
+        "emoji": "🇳🇵"
+    },
+    {
+        "name": {
+            "common": "Netherlands",
+            "official": "Kingdom of the Netherlands",
+            "nativeName": {
+                "nld": {
+                    "official": "Koninkrijk der Nederlanden",
+                    "common": "Nederland"
+                }
+            }
+        },
+        "cca2": "NL",
+        "cca3": "NLD",
+        "cioc": "NED",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "31"
+        ],
+        "capital": "Amsterdam",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "status": true,
+        "emoji": "🇳🇱"
+    },
+    {
+        "name": {
+            "common": "New Caledonia",
+            "official": "New Caledonia",
+            "nativeName": {
+                "fra": {
+                    "official": "Nouvelle-Calédonie",
+                    "common": "Nouvelle-Calédonie"
+                }
+            }
+        },
+        "cca2": "NC",
+        "cca3": "NCL",
+        "cioc": "",
+        "currency": [
+            "XPF"
+        ],
+        "callingCode": [
+            "687"
+        ],
+        "capital": "Nouméa",
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "status": false,
+        "emoji": "🇳🇨"
+    },
+    {
+        "name": {
+            "common": "New Zealand",
+            "official": "New Zealand",
+            "nativeName": {
+                "eng": {
+                    "official": "New Zealand",
+                    "common": "New Zealand"
+                },
+                "mri": {
+                    "official": "Aotearoa",
+                    "common": "Aotearoa"
+                },
+                "nzs": {
+                    "official": "New Zealand",
+                    "common": "New Zealand"
+                }
+            }
+        },
+        "cca2": "NZ",
+        "cca3": "NZL",
+        "cioc": "NZL",
+        "currency": [
+            "NZD"
+        ],
+        "callingCode": [
+            "64"
+        ],
+        "capital": "Wellington",
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "status": true,
+        "emoji": "🇳🇿"
+    },
+    {
+        "name": {
+            "common": "Nicaragua",
+            "official": "Republic of Nicaragua",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Nicaragua",
+                    "common": "Nicaragua"
+                }
+            }
+        },
+        "cca2": "NI",
+        "cca3": "NIC",
+        "cioc": "NCA",
+        "currency": [
+            "NIO"
+        ],
+        "callingCode": [
+            "505"
+        ],
+        "capital": "Managua",
+        "region": "Americas",
+        "subregion": "Central America",
+        "status": true,
+        "emoji": "🇳🇮"
+    },
+    {
+        "name": {
+            "common": "Niger",
+            "official": "Republic of Niger",
+            "nativeName": {
+                "fra": {
+                    "official": "République du Niger",
+                    "common": "Niger"
+                }
+            }
+        },
+        "cca2": "NE",
+        "cca3": "NER",
+        "cioc": "NIG",
+        "currency": [
+            "XOF"
+        ],
+        "callingCode": [
+            "227"
+        ],
+        "capital": "Niamey",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "status": true,
+        "emoji": "🇳🇪"
+    },
+    {
+        "name": {
+            "common": "Nigeria",
+            "official": "Federal Republic of Nigeria",
+            "nativeName": {
+                "eng": {
+                    "official": "Federal Republic of Nigeria",
+                    "common": "Nigeria"
+                }
+            }
+        },
+        "cca2": "NG",
+        "cca3": "NGA",
+        "cioc": "NGR",
+        "currency": [
+            "NGN"
+        ],
+        "callingCode": [
+            "234"
+        ],
+        "capital": "Abuja",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "status": true,
+        "emoji": "🇳🇬"
+    },
+    {
+        "name": {
+            "common": "Niue",
+            "official": "Niue",
+            "nativeName": {
+                "eng": {
+                    "official": "Niue",
+                    "common": "Niue"
+                },
+                "niu": {
+                    "official": "Niuē",
+                    "common": "Niuē"
+                }
+            }
+        },
+        "cca2": "NU",
+        "cca3": "NIU",
+        "cioc": "",
+        "currency": [
+            "NZD"
+        ],
+        "callingCode": [
+            "683"
+        ],
+        "capital": "Alofi",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "status": false,
+        "emoji": "🇳🇺"
+    },
+    {
+        "name": {
+            "common": "Norfolk Island",
+            "official": "Territory of Norfolk Island",
+            "nativeName": {
+                "eng": {
+                    "official": "Territory of Norfolk Island",
+                    "common": "Norfolk Island"
+                }
+            }
+        },
+        "cca2": "NF",
+        "cca3": "NFK",
+        "cioc": "",
+        "currency": [
+            "AUD"
+        ],
+        "callingCode": [
+            "672"
+        ],
+        "capital": "Kingston",
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "status": false,
+        "emoji": "🇳🇫"
+    },
+    {
+        "name": {
+            "common": "North Korea",
+            "official": "Democratic People's Republic of Korea",
+            "nativeName": {
+                "kor": {
+                    "official": "조선민주주의인민공화국",
+                    "common": "조선"
+                }
+            }
+        },
+        "cca2": "KP",
+        "cca3": "PRK",
+        "cioc": "PRK",
+        "currency": [
+            "KPW"
+        ],
+        "callingCode": [
+            "850"
+        ],
+        "capital": "Pyongyang",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "status": true,
+        "emoji": "🇰🇵"
+    },
+    {
+        "name": {
+            "common": "North Macedonia",
+            "official": "Republic of North Macedonia",
+            "nativeName": {
+                "mkd": {
+                    "official": "Република Северна Македонија",
+                    "common": "Северна Македонија"
+                }
+            }
+        },
+        "cca2": "MK",
+        "cca3": "MKD",
+        "cioc": "MKD",
+        "currency": [
+            "MKD"
+        ],
+        "callingCode": [
+            "389"
+        ],
+        "capital": "Skopje",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "status": true,
+        "emoji": "🇲🇰"
+    },
+    {
+        "name": {
+            "common": "Northern Mariana Islands",
+            "official": "Commonwealth of the Northern Mariana Islands",
+            "nativeName": {
+                "cha": {
+                    "official": "Sankattan Siha Na Islas Mariånas",
+                    "common": "Na Islas Mariånas"
+                },
+                "eng": {
+                    "official": "Commonwealth of the Northern Mariana Islands",
+                    "common": "Northern Mariana Islands"
+                }
+            }
+        },
+        "cca2": "MP",
+        "cca3": "MNP",
+        "cioc": "",
+        "currency": [
+            "USD"
+        ],
+        "callingCode": [
+            "1670"
+        ],
+        "capital": "Saipan",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "status": false,
+        "emoji": "🇲🇵"
+    },
+    {
+        "name": {
+            "common": "Norway",
+            "official": "Kingdom of Norway",
+            "nativeName": {
+                "nno": {
+                    "official": "Kongeriket Noreg",
+                    "common": "Noreg"
+                },
+                "nob": {
+                    "official": "Kongeriket Norge",
+                    "common": "Norge"
+                },
+                "nor": {
+                    "official": "Kongeriket Norge",
+                    "common": "Norge"
+                }
+            }
+        },
+        "cca2": "NO",
+        "cca3": "NOR",
+        "cioc": "NOR",
+        "currency": [
+            "NOK"
+        ],
+        "callingCode": [
+            "47"
+        ],
+        "capital": "Oslo",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "status": true,
+        "emoji": "🇳🇴"
+    },
+    {
+        "name": {
+            "common": "Oman",
+            "official": "Sultanate of Oman",
+            "nativeName": {
+                "ara": {
+                    "official": "سلطنة عُمان",
+                    "common": "عُمان"
+                }
+            }
+        },
+        "cca2": "OM",
+        "cca3": "OMN",
+        "cioc": "OMA",
+        "currency": [
+            "OMR"
+        ],
+        "callingCode": [
+            "968"
+        ],
+        "capital": "Muscat",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "status": true,
+        "emoji": "🇴🇲"
+    },
+    {
+        "name": {
+            "common": "Pakistan",
+            "official": "Islamic Republic of Pakistan",
+            "nativeName": {
+                "eng": {
+                    "official": "Islamic Republic of Pakistan",
+                    "common": "Pakistan"
+                },
+                "urd": {
+                    "official": "اسلامی جمہوریہ پاکستان",
+                    "common": "پاکستان"
+                }
+            }
+        },
+        "cca2": "PK",
+        "cca3": "PAK",
+        "cioc": "PAK",
+        "currency": [
+            "PKR"
+        ],
+        "callingCode": [
+            "92"
+        ],
+        "capital": "Islamabad",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "status": true,
+        "emoji": "🇵🇰"
+    },
+    {
+        "name": {
+            "common": "Palau",
+            "official": "Republic of Palau",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Palau",
+                    "common": "Palau"
+                },
+                "pau": {
+                    "official": "Beluu er a Belau",
+                    "common": "Belau"
+                }
+            }
+        },
+        "cca2": "PW",
+        "cca3": "PLW",
+        "cioc": "PLW",
+        "currency": [
+            "USD"
+        ],
+        "callingCode": [
+            "680"
+        ],
+        "capital": "Ngerulmud",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "status": true,
+        "emoji": "🇵🇼"
+    },
+    {
+        "name": {
+            "common": "Palestine",
+            "official": "State of Palestine",
+            "nativeName": {
+                "ara": {
+                    "official": "دولة فلسطين",
+                    "common": "فلسطين"
+                }
+            }
+        },
+        "cca2": "PS",
+        "cca3": "PSE",
+        "cioc": "PLE",
+        "currency": [
+            "ILS"
+        ],
+        "callingCode": [
+            "970"
+        ],
+        "capital": "Ramallah",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "status": true,
+        "emoji": "🇵🇸"
+    },
+    {
+        "name": {
+            "common": "Panama",
+            "official": "Republic of Panama",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Panamá",
+                    "common": "Panamá"
+                }
+            }
+        },
+        "cca2": "PA",
+        "cca3": "PAN",
+        "cioc": "PAN",
+        "currency": [
+            "PAB",
+            "USD"
+        ],
+        "callingCode": [
+            "507"
+        ],
+        "capital": "Panama City",
+        "region": "Americas",
+        "subregion": "Central America",
+        "status": true,
+        "emoji": "🇵🇦"
+    },
+    {
+        "name": {
+            "common": "Papua New Guinea",
+            "official": "Independent State of Papua New Guinea",
+            "nativeName": {
+                "eng": {
+                    "official": "Independent State of Papua New Guinea",
+                    "common": "Papua New Guinea"
+                }
+            }
+        },
+        "cca2": "PG",
+        "cca3": "PNG",
+        "cioc": "PNG",
+        "currency": [
+            "PGK"
+        ],
+        "callingCode": [
+            "675"
+        ],
+        "capital": "Port Moresby",
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "status": true,
+        "emoji": "🇵🇬"
+    },
+    {
+        "name": {
+            "common": "Paraguay",
+            "official": "Republic of Paraguay",
+            "nativeName": {
+                "grn": {
+                    "official": "Tetã Paraguái",
+                    "common": "Paraguái"
+                },
+                "spa": {
+                    "official": "República de Paraguay",
+                    "common": "Paraguay"
+                }
+            }
+        },
+        "cca2": "PY",
+        "cca3": "PRY",
+        "cioc": "PAR",
+        "currency": [
+            "PYG"
+        ],
+        "callingCode": [
+            "595"
+        ],
+        "capital": "Asunción",
+        "region": "Americas",
+        "subregion": "South America",
+        "status": true,
+        "emoji": "🇵🇾"
+    },
+    {
+        "name": {
+            "common": "Peru",
+            "official": "Republic of Peru",
+            "nativeName": {
+                "aym": {
+                    "official": "Piruw Suyu",
+                    "common": "Piruw"
+                },
+                "que": {
+                    "official": "Piruw Ripuwlika",
+                    "common": "Piruw"
+                },
+                "spa": {
+                    "official": "República del Perú",
+                    "common": "Perú"
+                }
+            }
+        },
+        "cca2": "PE",
+        "cca3": "PER",
+        "cioc": "PER",
+        "currency": [
+            "PEN"
+        ],
+        "callingCode": [
+            "51"
+        ],
+        "capital": "Lima",
+        "region": "Americas",
+        "subregion": "South America",
+        "status": true,
+        "emoji": "🇵🇪"
+    },
+    {
+        "name": {
+            "common": "Philippines",
+            "official": "Republic of the Philippines",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of the Philippines",
+                    "common": "Philippines"
+                },
+                "fil": {
+                    "official": "Republic of the Philippines",
+                    "common": "Pilipinas"
+                }
+            }
+        },
+        "cca2": "PH",
+        "cca3": "PHL",
+        "cioc": "PHI",
+        "currency": [
+            "PHP"
+        ],
+        "callingCode": [
+            "63"
+        ],
+        "capital": "Manila",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "status": true,
+        "emoji": "🇵🇭"
+    },
+    {
+        "name": {
+            "common": "Pitcairn Islands",
+            "official": "Pitcairn Group of Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "Pitcairn Group of Islands",
+                    "common": "Pitcairn Islands"
+                }
+            }
+        },
+        "cca2": "PN",
+        "cca3": "PCN",
+        "cioc": "",
+        "currency": [
+            "NZD"
+        ],
+        "callingCode": [
+            "64"
+        ],
+        "capital": "Adamstown",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "status": false,
+        "emoji": "🇵🇳"
+    },
+    {
+        "name": {
+            "common": "Poland",
+            "official": "Republic of Poland",
+            "nativeName": {
+                "pol": {
+                    "official": "Rzeczpospolita Polska",
+                    "common": "Polska"
+                }
+            }
+        },
+        "cca2": "PL",
+        "cca3": "POL",
+        "cioc": "POL",
+        "currency": [
+            "PLN"
+        ],
+        "callingCode": [
+            "48"
+        ],
+        "capital": "Warsaw",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "status": true,
+        "emoji": "🇵🇱"
+    },
+    {
+        "name": {
+            "common": "Portugal",
+            "official": "Portuguese Republic",
+            "nativeName": {
+                "por": {
+                    "official": "República Portuguesa",
+                    "common": "Portugal"
+                }
+            }
+        },
+        "cca2": "PT",
+        "cca3": "PRT",
+        "cioc": "POR",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "351"
+        ],
+        "capital": "Lisbon",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "status": true,
+        "emoji": "🇵🇹"
+    },
+    {
+        "name": {
+            "common": "Puerto Rico",
+            "official": "Commonwealth of Puerto Rico",
+            "nativeName": {
+                "eng": {
+                    "official": "Commonwealth of Puerto Rico",
+                    "common": "Puerto Rico"
+                },
+                "spa": {
+                    "official": "Estado Libre Asociado de Puerto Rico",
+                    "common": "Puerto Rico"
+                }
+            }
+        },
+        "cca2": "PR",
+        "cca3": "PRI",
+        "cioc": "",
+        "currency": [
+            "USD"
+        ],
+        "callingCode": [
+            "1787",
+            "1939"
+        ],
+        "capital": "San Juan",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": false,
+        "emoji": "🇵🇷"
+    },
+    {
+        "name": {
+            "common": "Qatar",
+            "official": "State of Qatar",
+            "nativeName": {
+                "ara": {
+                    "official": "دولة قطر",
+                    "common": "قطر"
+                }
+            }
+        },
+        "cca2": "QA",
+        "cca3": "QAT",
+        "cioc": "QAT",
+        "currency": [
+            "QAR"
+        ],
+        "callingCode": [
+            "974"
+        ],
+        "capital": "Doha",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "status": true,
+        "emoji": "🇶🇦"
+    },
+    {
+        "name": {
+            "common": "Réunion",
+            "official": "Réunion Island",
+            "nativeName": {
+                "fra": {
+                    "official": "Ile de la Réunion",
+                    "common": "La Réunion"
+                }
+            }
+        },
+        "cca2": "RE",
+        "cca3": "REU",
+        "cioc": "",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "262"
+        ],
+        "capital": "Saint-Denis",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "status": false,
+        "emoji": "🇷🇪"
+    },
+    {
+        "name": {
+            "common": "Romania",
+            "official": "Romania",
+            "nativeName": {
+                "ron": {
+                    "official": "România",
+                    "common": "România"
+                }
+            }
+        },
+        "cca2": "RO",
+        "cca3": "ROU",
+        "cioc": "ROU",
+        "currency": [
+            "RON"
+        ],
+        "callingCode": [
+            "40"
+        ],
+        "capital": "Bucharest",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "status": true,
+        "emoji": "🇷🇴"
+    },
+    {
+        "name": {
+            "common": "Russia",
+            "official": "Russian Federation",
+            "nativeName": {
+                "rus": {
+                    "official": "Российская Федерация",
+                    "common": "Россия"
+                }
+            }
+        },
+        "cca2": "RU",
+        "cca3": "RUS",
+        "cioc": "RUS",
+        "currency": [
+            "RUB"
+        ],
+        "callingCode": [
+            "7"
+        ],
+        "capital": "Moscow",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "status": true,
+        "emoji": "🇷🇺"
+    },
+    {
+        "name": {
+            "common": "Rwanda",
+            "official": "Republic of Rwanda",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Rwanda",
+                    "common": "Rwanda"
+                },
+                "fra": {
+                    "official": "République rwandaise",
+                    "common": "Rwanda"
+                },
+                "kin": {
+                    "official": "Repubulika y'u Rwanda",
+                    "common": "Rwanda"
+                }
+            }
+        },
+        "cca2": "RW",
+        "cca3": "RWA",
+        "cioc": "RWA",
+        "currency": [
+            "RWF"
+        ],
+        "callingCode": [
+            "250"
+        ],
+        "capital": "Kigali",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "status": true,
+        "emoji": "🇷🇼"
+    },
+    {
+        "name": {
+            "common": "Saint Barthélemy",
+            "official": "Collectivity of Saint Barthélemy",
+            "nativeName": {
+                "fra": {
+                    "official": "Collectivité de Saint-Barthélemy",
+                    "common": "Saint-Barthélemy"
+                }
+            }
+        },
+        "cca2": "BL",
+        "cca3": "BLM",
+        "cioc": "",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "590"
+        ],
+        "capital": "Gustavia",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": false,
+        "emoji": "🇧🇱"
+    },
+    {
+        "name": {
+            "common": "Saint Helena, Ascension and Tristan da Cunha",
+            "official": "Saint Helena, Ascension and Tristan da Cunha",
+            "nativeName": {
+                "eng": {
+                    "official": "Saint Helena, Ascension and Tristan da Cunha",
+                    "common": "Saint Helena, Ascension and Tristan da Cunha"
+                }
+            }
+        },
+        "cca2": "SH",
+        "cca3": "SHN",
+        "cioc": "",
+        "currency": [
+            "SHP"
+        ],
+        "callingCode": [
+            "290"
+        ],
+        "capital": "Jamestown",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "status": false,
+        "emoji": "🇸🇭"
+    },
+    {
+        "name": {
+            "common": "Saint Kitts and Nevis",
+            "official": "Federation of Saint Christopher and Nevis",
+            "nativeName": {
+                "eng": {
+                    "official": "Federation of Saint Christopher and Nevis",
+                    "common": "Saint Kitts and Nevis"
+                }
+            }
+        },
+        "cca2": "KN",
+        "cca3": "KNA",
+        "cioc": "SKN",
+        "currency": [
+            "XCD"
+        ],
+        "callingCode": [
+            "1869"
+        ],
+        "capital": "Basseterre",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": true,
+        "emoji": "🇰🇳"
+    },
+    {
+        "name": {
+            "common": "Saint Lucia",
+            "official": "Saint Lucia",
+            "nativeName": {
+                "eng": {
+                    "official": "Saint Lucia",
+                    "common": "Saint Lucia"
+                }
+            }
+        },
+        "cca2": "LC",
+        "cca3": "LCA",
+        "cioc": "LCA",
+        "currency": [
+            "XCD"
+        ],
+        "callingCode": [
+            "1758"
+        ],
+        "capital": "Castries",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": true,
+        "emoji": "🇱🇨"
+    },
+    {
+        "name": {
+            "common": "Saint Martin",
+            "official": "Saint Martin",
+            "nativeName": {
+                "fra": {
+                    "official": "Saint-Martin",
+                    "common": "Saint-Martin"
+                }
+            }
+        },
+        "cca2": "MF",
+        "cca3": "MAF",
+        "cioc": "",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "590"
+        ],
+        "capital": "Marigot",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": false,
+        "emoji": "🇲🇫"
+    },
+    {
+        "name": {
+            "common": "Saint Pierre and Miquelon",
+            "official": "Saint Pierre and Miquelon",
+            "nativeName": {
+                "fra": {
+                    "official": "Collectivité territoriale de Saint-Pierre-et-Miquelon",
+                    "common": "Saint-Pierre-et-Miquelon"
+                }
+            }
+        },
+        "cca2": "PM",
+        "cca3": "SPM",
+        "cioc": "",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "508"
+        ],
+        "capital": "Saint-Pierre",
+        "region": "Americas",
+        "subregion": "Northern America",
+        "status": false,
+        "emoji": "🇵🇲"
+    },
+    {
+        "name": {
+            "common": "Saint Vincent and the Grenadines",
+            "official": "Saint Vincent and the Grenadines",
+            "nativeName": {
+                "eng": {
+                    "official": "Saint Vincent and the Grenadines",
+                    "common": "Saint Vincent and the Grenadines"
+                }
+            }
+        },
+        "cca2": "VC",
+        "cca3": "VCT",
+        "cioc": "VIN",
+        "currency": [
+            "XCD"
+        ],
+        "callingCode": [
+            "1784"
+        ],
+        "capital": "Kingstown",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": true,
+        "emoji": "🇻🇨"
+    },
+    {
+        "name": {
+            "common": "Samoa",
+            "official": "Independent State of Samoa",
+            "nativeName": {
+                "eng": {
+                    "official": "Independent State of Samoa",
+                    "common": "Samoa"
+                },
+                "smo": {
+                    "official": "Malo Saʻoloto Tutoʻatasi o Sāmoa",
+                    "common": "Sāmoa"
+                }
+            }
+        },
+        "cca2": "WS",
+        "cca3": "WSM",
+        "cioc": "SAM",
+        "currency": [
+            "WST"
+        ],
+        "callingCode": [
+            "685"
+        ],
+        "capital": "Apia",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "status": true,
+        "emoji": "🇼🇸"
+    },
+    {
+        "name": {
+            "common": "San Marino",
+            "official": "Most Serene Republic of San Marino",
+            "nativeName": {
+                "ita": {
+                    "official": "Serenissima Repubblica di San Marino",
+                    "common": "San Marino"
+                }
+            }
+        },
+        "cca2": "SM",
+        "cca3": "SMR",
+        "cioc": "SMR",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "378"
+        ],
+        "capital": "City of San Marino",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "status": true,
+        "emoji": "🇸🇲"
+    },
+    {
+        "name": {
+            "common": "Sao Tome and Principe",
+            "official": "Democratic Republic of Sao Tome and Principe",
+            "nativeName": {
+                "por": {
+                    "official": "República Democrática de São Tomé e Príncipe",
+                    "common": "São Tomé e Príncipe"
+                }
+            }
+        },
+        "cca2": "ST",
+        "cca3": "STP",
+        "cioc": "STP",
+        "currency": [
+            "STN"
+        ],
+        "callingCode": [
+            "239"
+        ],
+        "capital": "São Tomé",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "status": true,
+        "emoji": "🇸🇹"
+    },
+    {
+        "name": {
+            "common": "Saudi Arabia",
+            "official": "Kingdom of Saudi Arabia",
+            "nativeName": {
+                "ara": {
+                    "official": "المملكة العربية السعودية",
+                    "common": "العربية السعودية"
+                }
+            }
+        },
+        "cca2": "SA",
+        "cca3": "SAU",
+        "cioc": "KSA",
+        "currency": [
+            "SAR"
+        ],
+        "callingCode": [
+            "966"
+        ],
+        "capital": "Riyadh",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "status": true,
+        "emoji": "🇸🇦"
+    },
+    {
+        "name": {
+            "common": "Senegal",
+            "official": "Republic of Senegal",
+            "nativeName": {
+                "fra": {
+                    "official": "République du Sénégal",
+                    "common": "Sénégal"
+                }
+            }
+        },
+        "cca2": "SN",
+        "cca3": "SEN",
+        "cioc": "SEN",
+        "currency": [
+            "XOF"
+        ],
+        "callingCode": [
+            "221"
+        ],
+        "capital": "Dakar",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "status": true,
+        "emoji": "🇸🇳"
+    },
+    {
+        "name": {
+            "common": "Serbia",
+            "official": "Republic of Serbia",
+            "nativeName": {
+                "srp": {
+                    "official": "Република Србија",
+                    "common": "Србија"
+                }
+            }
+        },
+        "cca2": "RS",
+        "cca3": "SRB",
+        "cioc": "SRB",
+        "currency": [
+            "RSD"
+        ],
+        "callingCode": [
+            "381"
+        ],
+        "capital": "Belgrade",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "status": true,
+        "emoji": "🇷🇸"
+    },
+    {
+        "name": {
+            "common": "Seychelles",
+            "official": "Republic of Seychelles",
+            "nativeName": {
+                "crs": {
+                    "official": "Repiblik Sesel",
+                    "common": "Sesel"
+                },
+                "eng": {
+                    "official": "Republic of Seychelles",
+                    "common": "Seychelles"
+                },
+                "fra": {
+                    "official": "République des Seychelles",
+                    "common": "Seychelles"
+                }
+            }
+        },
+        "cca2": "SC",
+        "cca3": "SYC",
+        "cioc": "SEY",
+        "currency": [
+            "SCR"
+        ],
+        "callingCode": [
+            "248"
+        ],
+        "capital": "Victoria",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "status": true,
+        "emoji": "🇸🇨"
+    },
+    {
+        "name": {
+            "common": "Sierra Leone",
+            "official": "Republic of Sierra Leone",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Sierra Leone",
+                    "common": "Sierra Leone"
+                }
+            }
+        },
+        "cca2": "SL",
+        "cca3": "SLE",
+        "cioc": "SLE",
+        "currency": [
+            "SLL"
+        ],
+        "callingCode": [
+            "232"
+        ],
+        "capital": "Freetown",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "status": true,
+        "emoji": "🇸🇱"
+    },
+    {
+        "name": {
+            "common": "Singapore",
+            "official": "Republic of Singapore",
+            "nativeName": {
+                "zho": {
+                    "official": "新加坡共和国",
+                    "common": "新加坡"
+                },
+                "eng": {
+                    "official": "Republic of Singapore",
+                    "common": "Singapore"
+                },
+                "msa": {
+                    "official": "Republik Singapura",
+                    "common": "Singapura"
+                },
+                "tam": {
+                    "official": "சிங்கப்பூர் குடியரசு",
+                    "common": "சிங்கப்பூர்"
+                }
+            }
+        },
+        "cca2": "SG",
+        "cca3": "SGP",
+        "cioc": "SIN",
+        "currency": [
+            "SGD"
+        ],
+        "callingCode": [
+            "65"
+        ],
+        "capital": "Singapore",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "status": true,
+        "emoji": "🇸🇬"
+    },
+    {
+        "name": {
+            "common": "Sint Maarten",
+            "official": "Sint Maarten",
+            "nativeName": {
+                "eng": {
+                    "official": "Sint Maarten",
+                    "common": "Sint Maarten"
+                },
+                "fra": {
+                    "official": "Saint-Martin",
+                    "common": "Saint-Martin"
+                },
+                "nld": {
+                    "official": "Sint Maarten",
+                    "common": "Sint Maarten"
+                }
+            }
+        },
+        "cca2": "SX",
+        "cca3": "SXM",
+        "cioc": "",
+        "currency": [
+            "ANG"
+        ],
+        "callingCode": [
+            "1721"
+        ],
+        "capital": "Philipsburg",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": false,
+        "emoji": "🇸🇽"
+    },
+    {
+        "name": {
+            "common": "Slovakia",
+            "official": "SlovakRepublic",
+            "nativeName": {
+                "slk": {
+                    "official": "Slovenská republika",
+                    "common": "Slovensko"
+                }
+            }
+        },
+        "cca2": "SK",
+        "cca3": "SVK",
+        "cioc": "SVK",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "421"
+        ],
+        "capital": "Bratislava",
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "status": true,
+        "emoji": "🇸🇰"
+    },
+    {
+        "name": {
+            "common": "Slovenia",
+            "official": "Republic of Slovenia",
+            "nativeName": {
+                "slv": {
+                    "official": "Republika Slovenija",
+                    "common": "Slovenija"
+                }
+            }
+        },
+        "cca2": "SI",
+        "cca3": "SVN",
+        "cioc": "SLO",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "386"
+        ],
+        "capital": "Ljubljana",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "status": true,
+        "emoji": "🇸🇮"
+    },
+    {
+        "name": {
+            "common": "Solomon Islands",
+            "official": "Solomon Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "Solomon Islands",
+                    "common": "Solomon Islands"
+                }
+            }
+        },
+        "cca2": "SB",
+        "cca3": "SLB",
+        "cioc": "SOL",
+        "currency": [
+            "SBD"
+        ],
+        "callingCode": [
+            "677"
+        ],
+        "capital": "Honiara",
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "status": true,
+        "emoji": "🇸🇧"
+    },
+    {
+        "name": {
+            "common": "Somalia",
+            "official": "Federal Republic of Somalia",
+            "nativeName": {
+                "ara": {
+                    "official": "جمهورية الصومال الفدرالية",
+                    "common": "الصومال‎"
+                },
+                "som": {
+                    "official": "Jamhuuriyadda Federaalka Soomaaliya",
+                    "common": "Soomaaliya"
+                }
+            }
+        },
+        "cca2": "SO",
+        "cca3": "SOM",
+        "cioc": "SOM",
+        "currency": [
+            "SOS"
+        ],
+        "callingCode": [
+            "252"
+        ],
+        "capital": "Mogadishu",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "status": true,
+        "emoji": "🇸🇴"
+    },
+    {
+        "name": {
+            "common": "South Africa",
+            "official": "Republic of South Africa",
+            "nativeName": {
+                "afr": {
+                    "official": "Republiek van Suid-Afrika",
+                    "common": "South Africa"
+                },
+                "eng": {
+                    "official": "Republic of South Africa",
+                    "common": "South Africa"
+                },
+                "nbl": {
+                    "official": "iRiphabliki yaseMzantsi Afrika",
+                    "common": "iNingizimu Afrika"
+                },
+                "nso": {
+                    "official": "Rephaboliki ya Afrika-Borwa ",
+                    "common": "Afrika-Borwa"
+                },
+                "sot": {
+                    "official": "Rephaboliki ya Afrika Borwa",
+                    "common": "Afrika Borwa"
+                },
+                "ssw": {
+                    "official": "Republic of South Africa",
+                    "common": "South Africa"
+                },
+                "tsn": {
+                    "official": "Rephaboliki ya Afrika Borwa",
+                    "common": "Afrika Borwa"
+                },
+                "tso": {
+                    "official": "Riphabliki ra Afrika Dzonga",
+                    "common": "Afrika Dzonga"
+                },
+                "ven": {
+                    "official": "Riphabuḽiki ya Afurika Tshipembe",
+                    "common": "Afurika Tshipembe"
+                },
+                "xho": {
+                    "official": "IRiphabliki yaseMzantsi Afrika",
+                    "common": "Mzantsi Afrika"
+                },
+                "zul": {
+                    "official": "IRiphabliki yaseNingizimu Afrika",
+                    "common": "Ningizimu Afrika"
+                }
+            }
+        },
+        "cca2": "ZA",
+        "cca3": "ZAF",
+        "cioc": "RSA",
+        "currency": [
+            "ZAR"
+        ],
+        "callingCode": [
+            "27"
+        ],
+        "capital": "Pretoria",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "status": true,
+        "emoji": "🇿🇦"
+    },
+    {
+        "name": {
+            "common": "South Georgia",
+            "official": "South Georgia and the South Sandwich Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "South Georgia and the South Sandwich Islands",
+                    "common": "South Georgia"
+                }
+            }
+        },
+        "cca2": "GS",
+        "cca3": "SGS",
+        "cioc": "",
+        "currency": [
+            "GBP"
+        ],
+        "callingCode": [
+            ""
+        ],
+        "capital": "King Edward Point",
+        "region": "Americas",
+        "subregion": "South America",
+        "status": false,
+        "emoji": "🇬🇸"
+    },
+    {
+        "name": {
+            "common": "South Korea",
+            "official": "Republic of Korea",
+            "nativeName": {
+                "kor": {
+                    "official": "대한민국",
+                    "common": "한국"
+                }
+            }
+        },
+        "cca2": "KR",
+        "cca3": "KOR",
+        "cioc": "KOR",
+        "currency": [
+            "KRW"
+        ],
+        "callingCode": [
+            "82"
+        ],
+        "capital": "Seoul",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "status": true,
+        "emoji": "🇰🇷"
+    },
+    {
+        "name": {
+            "common": "South Sudan",
+            "official": "Republic of South Sudan",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of South Sudan",
+                    "common": "South Sudan"
+                }
+            }
+        },
+        "cca2": "SS",
+        "cca3": "SSD",
+        "cioc": "SSD",
+        "currency": [
+            "SSP"
+        ],
+        "callingCode": [
+            "211"
+        ],
+        "capital": "Juba",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "status": true,
+        "emoji": "🇸🇸"
+    },
+    {
+        "name": {
+            "common": "Spain",
+            "official": "Kingdom of Spain",
+            "nativeName": {
+                "spa": {
+                    "official": "Reino de España",
+                    "common": "España"
+                }
+            }
+        },
+        "cca2": "ES",
+        "cca3": "ESP",
+        "cioc": "ESP",
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "34"
+        ],
+        "capital": "Madrid",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "status": true,
+        "emoji": "🇪🇸"
+    },
+    {
+        "name": {
+            "common": "Sri Lanka",
+            "official": "Democratic Socialist Republic of Sri Lanka",
+            "nativeName": {
+                "sin": {
+                    "official": "ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය",
+                    "common": "ශ්‍රී ලංකාව"
+                },
+                "tam": {
+                    "official": "இலங்கை ஜனநாயக சோஷலிசக் குடியரசு",
+                    "common": "இலங்கை"
+                }
+            }
+        },
+        "cca2": "LK",
+        "cca3": "LKA",
+        "cioc": "SRI",
+        "currency": [
+            "LKR"
+        ],
+        "callingCode": [
+            "94"
+        ],
+        "capital": "Colombo",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "status": true,
+        "emoji": "🇱🇰"
+    },
+    {
+        "name": {
+            "common": "Sudan",
+            "official": "Republic of the Sudan",
+            "nativeName": {
+                "ara": {
+                    "official": "جمهورية السودان",
+                    "common": "السودان"
+                },
+                "eng": {
+                    "official": "Republic of the Sudan",
+                    "common": "Sudan"
+                }
+            }
+        },
+        "cca2": "SD",
+        "cca3": "SDN",
+        "cioc": "SUD",
+        "currency": [
+            "SDG"
+        ],
+        "callingCode": [
+            "249"
+        ],
+        "capital": "Khartoum",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "status": true,
+        "emoji": "🇸🇩"
+    },
+    {
+        "name": {
+            "common": "Suriname",
+            "official": "Republic of Suriname",
+            "nativeName": {
+                "nld": {
+                    "official": "Republiek Suriname",
+                    "common": "Suriname"
+                }
+            }
+        },
+        "cca2": "SR",
+        "cca3": "SUR",
+        "cioc": "SUR",
+        "currency": [
+            "SRD"
+        ],
+        "callingCode": [
+            "597"
+        ],
+        "capital": "Paramaribo",
+        "region": "Americas",
+        "subregion": "South America",
+        "status": true,
+        "emoji": "🇸🇷"
+    },
+    {
+        "name": {
+            "common": "Svalbard and Jan Mayen",
+            "official": "Svalbard og Jan Mayen",
+            "nativeName": {
+                "nor": {
+                    "official": "Svalbard og Jan Mayen",
+                    "common": "Svalbard og Jan Mayen"
+                }
+            }
+        },
+        "cca2": "SJ",
+        "cca3": "SJM",
+        "cioc": "",
+        "currency": [
+            "NOK"
+        ],
+        "callingCode": [
+            "4779"
+        ],
+        "capital": "Longyearbyen",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "status": false,
+        "emoji": "🇸🇯"
+    },
+    {
+        "name": {
+            "common": "Sweden",
+            "official": "Kingdom of Sweden",
+            "nativeName": {
+                "swe": {
+                    "official": "Konungariket Sverige",
+                    "common": "Sverige"
+                }
+            }
+        },
+        "cca2": "SE",
+        "cca3": "SWE",
+        "cioc": "SWE",
+        "currency": [
+            "SEK"
+        ],
+        "callingCode": [
+            "46"
+        ],
+        "capital": "Stockholm",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "status": true,
+        "emoji": "🇸🇪"
+    },
+    {
+        "name": {
+            "common": "Switzerland",
+            "official": "Swiss Confederation",
+            "nativeName": {
+                "fra": {
+                    "official": "Confédération suisse",
+                    "common": "Suisse"
+                },
+                "gsw": {
+                    "official": "Schweizerische Eidgenossenschaft",
+                    "common": "Schweiz"
+                },
+                "ita": {
+                    "official": "Confederazione Svizzera",
+                    "common": "Svizzera"
+                },
+                "roh": {
+                    "official": "Confederaziun svizra",
+                    "common": "Svizra"
+                }
+            }
+        },
+        "cca2": "CH",
+        "cca3": "CHE",
+        "cioc": "SUI",
+        "currency": [
+            "CHF"
+        ],
+        "callingCode": [
+            "41"
+        ],
+        "capital": "Bern",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "status": true,
+        "emoji": "🇨🇭"
+    },
+    {
+        "name": {
+            "common": "Syria",
+            "official": "Syrian Arab Republic",
+            "nativeName": {
+                "ara": {
+                    "official": "الجمهورية العربية السورية",
+                    "common": "سوريا"
+                }
+            }
+        },
+        "cca2": "SY",
+        "cca3": "SYR",
+        "cioc": "SYR",
+        "currency": [
+            "SYP"
+        ],
+        "callingCode": [
+            "963"
+        ],
+        "capital": "Damascus",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "status": true,
+        "emoji": "🇸🇾"
+    },
+    {
+        "name": {
+            "common": "Taiwan",
+            "official": "Republic of China (Taiwan)",
+            "nativeName": {
+                "zho": {
+                    "official": "中華民國",
+                    "common": "臺灣"
+                }
+            }
+        },
+        "cca2": "TW",
+        "cca3": "TWN",
+        "cioc": "TPE",
+        "currency": [
+            "TWD"
+        ],
+        "callingCode": [
+            "886"
+        ],
+        "capital": "Taipei",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "status": false,
+        "emoji": "🇹🇼"
+    },
+    {
+        "name": {
+            "common": "Tajikistan",
+            "official": "Republic of Tajikistan",
+            "nativeName": {
+                "tgk": {
+                    "official": "Ҷумҳурии Тоҷикистон",
+                    "common": "Тоҷикистон"
+                },
+                "rus": {
+                    "official": "Республика Таджикистан",
+                    "common": "Таджикистан"
+                }
+            }
+        },
+        "cca2": "TJ",
+        "cca3": "TJK",
+        "cioc": "TJK",
+        "currency": [
+            "TJS"
+        ],
+        "callingCode": [
+            "992"
+        ],
+        "capital": "Dushanbe",
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "status": true,
+        "emoji": "🇹🇯"
+    },
+    {
+        "name": {
+            "common": "Tanzania",
+            "official": "United Republic of Tanzania",
+            "nativeName": {
+                "swa": {
+                    "official": "Jamhuri ya Muungano wa Tanzania",
+                    "common": "Tanzania"
+                }
+            }
+        },
+        "cca2": "TZ",
+        "cca3": "TZA",
+        "cioc": "TAN",
+        "currency": [
+            "TZS"
+        ],
+        "callingCode": [
+            "255"
+        ],
+        "capital": "Dodoma",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "status": true,
+        "emoji": "🇹🇿"
+    },
+    {
+        "name": {
+            "common": "Thailand",
+            "official": "Kingdom of Thailand",
+            "nativeName": {
+                "tha": {
+                    "official": "ราชอาณาจักรไทย",
+                    "common": "ประเทศไทย"
+                }
+            }
+        },
+        "cca2": "TH",
+        "cca3": "THA",
+        "cioc": "THA",
+        "currency": [
+            "THB"
+        ],
+        "callingCode": [
+            "66"
+        ],
+        "capital": "Bangkok",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "status": true,
+        "emoji": "🇹🇭"
+    },
+    {
+        "name": {
+            "common": "Timor-Leste",
+            "official": "Democratic Republic of Timor-Leste",
+            "nativeName": {
+                "por": {
+                    "official": "República Democrática de Timor-Leste",
+                    "common": "Timor-Leste"
+                },
+                "tet": {
+                    "official": "Repúblika Demokrátika Timór-Leste",
+                    "common": "Timór-Leste"
+                }
+            }
+        },
+        "cca2": "TL",
+        "cca3": "TLS",
+        "cioc": "TLS",
+        "currency": [
+            "USD"
+        ],
+        "callingCode": [
+            "670"
+        ],
+        "capital": "Dili",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "status": true,
+        "emoji": "🇹🇱"
+    },
+    {
+        "name": {
+            "common": "Togo",
+            "official": "Togolese Republic",
+            "nativeName": {
+                "fra": {
+                    "official": "République togolaise",
+                    "common": "Togo"
+                }
+            }
+        },
+        "cca2": "TG",
+        "cca3": "TGO",
+        "cioc": "TOG",
+        "currency": [
+            "XOF"
+        ],
+        "callingCode": [
+            "228"
+        ],
+        "capital": "Lomé",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "status": true,
+        "emoji": "🇹🇬"
+    },
+    {
+        "name": {
+            "common": "Tokelau",
+            "official": "Tokelau",
+            "nativeName": {
+                "eng": {
+                    "official": "Tokelau",
+                    "common": "Tokelau"
+                },
+                "smo": {
+                    "official": "Tokelau",
+                    "common": "Tokelau"
+                },
+                "tkl": {
+                    "official": "Tokelau",
+                    "common": "Tokelau"
+                }
+            }
+        },
+        "cca2": "TK",
+        "cca3": "TKL",
+        "cioc": "",
+        "currency": [
+            "NZD"
+        ],
+        "callingCode": [
+            "690"
+        ],
+        "capital": "",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "status": false,
+        "emoji": "🇹🇰"
+    },
+    {
+        "name": {
+            "common": "Tonga",
+            "official": "Kingdom of Tonga",
+            "nativeName": {
+                "eng": {
+                    "official": "Kingdom of Tonga",
+                    "common": "Tonga"
+                },
+                "ton": {
+                    "official": "Kingdom of Tonga",
+                    "common": "Tonga"
+                }
+            }
+        },
+        "cca2": "TO",
+        "cca3": "TON",
+        "cioc": "TGA",
+        "currency": [
+            "TOP"
+        ],
+        "callingCode": [
+            "676"
+        ],
+        "capital": "Nuku'alofa",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "status": true,
+        "emoji": "🇹🇴"
+    },
+    {
+        "name": {
+            "common": "Trinidad and Tobago",
+            "official": "Republic of Trinidad and Tobago",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Trinidad and Tobago",
+                    "common": "Trinidad and Tobago"
+                }
+            }
+        },
+        "cca2": "TT",
+        "cca3": "TTO",
+        "cioc": "TTO",
+        "currency": [
+            "TTD"
+        ],
+        "callingCode": [
+            "1868"
+        ],
+        "capital": "Port of Spain",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": true,
+        "emoji": "🇹🇹"
+    },
+    {
+        "name": {
+            "common": "Tunisia",
+            "official": "Tunisian Republic",
+            "nativeName": {
+                "ara": {
+                    "official": "الجمهورية التونسية",
+                    "common": "تونس"
+                }
+            }
+        },
+        "cca2": "TN",
+        "cca3": "TUN",
+        "cioc": "TUN",
+        "currency": [
+            "TND"
+        ],
+        "callingCode": [
+            "216"
+        ],
+        "capital": "Tunis",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "status": true,
+        "emoji": "🇹🇳"
+    },
+    {
+        "name": {
+            "common": "Turkey",
+            "official": "Republic of Turkey",
+            "nativeName": {
+                "tur": {
+                    "official": "Türkiye Cumhuriyeti",
+                    "common": "Türkiye"
+                }
+            }
+        },
+        "cca2": "TR",
+        "cca3": "TUR",
+        "cioc": "TUR",
+        "currency": [
+            "TRY"
+        ],
+        "callingCode": [
+            "90"
+        ],
+        "capital": "Ankara",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "status": true,
+        "emoji": "🇹🇷"
+    },
+    {
+        "name": {
+            "common": "Turkmenistan",
+            "official": "Turkmenistan",
+            "nativeName": {
+                "rus": {
+                    "official": "Туркменистан",
+                    "common": "Туркмения"
+                },
+                "tuk": {
+                    "official": "Türkmenistan",
+                    "common": "Türkmenistan"
+                }
+            }
+        },
+        "cca2": "TM",
+        "cca3": "TKM",
+        "cioc": "TKM",
+        "currency": [
+            "TMT"
+        ],
+        "callingCode": [
+            "993"
+        ],
+        "capital": "Ashgabat",
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "status": true,
+        "emoji": "🇹🇲"
+    },
+    {
+        "name": {
+            "common": "Turks and Caicos Islands",
+            "official": "Turks and Caicos Islands",
+            "nativeName": {
+                "eng": {
+                    "official": "Turks and Caicos Islands",
+                    "common": "Turks and Caicos Islands"
+                }
+            }
+        },
+        "cca2": "TC",
+        "cca3": "TCA",
+        "cioc": "",
+        "currency": [
+            "USD"
+        ],
+        "callingCode": [
+            "1649"
+        ],
+        "capital": "Cockburn Town",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "status": false,
+        "emoji": "🇹🇨"
+    },
+    {
+        "name": {
+            "common": "Tuvalu",
+            "official": "Tuvalu",
+            "nativeName": {
+                "eng": {
+                    "official": "Tuvalu",
+                    "common": "Tuvalu"
+                },
+                "tvl": {
+                    "official": "Tuvalu",
+                    "common": "Tuvalu"
+                }
+            }
+        },
+        "cca2": "TV",
+        "cca3": "TUV",
+        "cioc": "TUV",
+        "currency": [
+            "AUD"
+        ],
+        "callingCode": [
+            "688"
+        ],
+        "capital": "Funafuti",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "status": true,
+        "emoji": "🇹🇻"
+    },
+    {
+        "name": {
+            "common": "Uganda",
+            "official": "Republic of Uganda",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Uganda",
+                    "common": "Uganda"
+                },
+                "swa": {
+                    "official": "Republic of Uganda",
+                    "common": "Uganda"
+                }
+            }
+        },
+        "cca2": "UG",
+        "cca3": "UGA",
+        "cioc": "UGA",
+        "currency": [
+            "UGX"
+        ],
+        "callingCode": [
+            "256"
+        ],
+        "capital": "Kampala",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "status": true,
+        "emoji": "🇺🇬"
+    },
+    {
+        "name": {
+            "common": "Ukraine",
+            "official": "Ukraine",
+            "nativeName": {
+                "ukr": {
+                    "official": "Україна",
+                    "common": "Україна"
+                }
+            }
+        },
+        "cca2": "UA",
+        "cca3": "UKR",
+        "cioc": "UKR",
+        "currency": [
+            "UAH"
+        ],
+        "callingCode": [
+            "380"
+        ],
+        "capital": "Kyiv",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "status": true,
+        "emoji": "🇺🇦"
+    },
+    {
+        "name": {
+            "common": "United Arab Emirates",
+            "official": "United Arab Emirates",
+            "nativeName": {
+                "ara": {
+                    "official": "الإمارات العربية المتحدة",
+                    "common": "دولة الإمارات العربية المتحدة"
+                }
+            }
+        },
+        "cca2": "AE",
+        "cca3": "ARE",
+        "cioc": "UAE",
+        "currency": [
+            "AED"
+        ],
+        "callingCode": [
+            "971"
+        ],
+        "capital": "Abu Dhabi",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "status": true,
+        "emoji": "🇦🇪"
+    },
+    {
+        "name": {
+            "common": "United Kingdom",
+            "official": "United Kingdom of Great Britain and Northern Ireland",
+            "nativeName": {
+                "eng": {
+                    "official": "United Kingdom of Great Britain and Northern Ireland",
+                    "common": "United Kingdom"
+                }
+            }
+        },
+        "cca2": "GB",
+        "cca3": "GBR",
+        "cioc": "GBR",
+        "currency": [
+            "GBP"
+        ],
+        "callingCode": [
+            "44"
+        ],
+        "capital": "London",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "status": true,
+        "emoji": "🇬🇧"
+    },
+    {
+        "name": {
+            "common": "United States",
+            "official": "United States of America",
+            "nativeName": {
+                "eng": {
+                    "official": "United States of America",
+                    "common": "United States"
+                }
+            }
+        },
+        "cca2": "US",
+        "cca3": "USA",
+        "cioc": "USA",
+        "currency": [
+            "USD",
+            "USN",
+            "USS"
+        ],
+        "callingCode": [
+            "1"
+        ],
+        "capital": "Washington D.C.",
+        "region": "Americas",
+        "subregion": "Northern America",
+        "status": true,
+        "emoji": "🇺🇸"
+    },
+    {
+        "name": {
+            "common": "Uruguay",
+            "official": "Oriental Republic of Uruguay",
+            "nativeName": {
+                "spa": {
+                    "official": "República Oriental del Uruguay",
+                    "common": "Uruguay"
+                }
+            }
+        },
+        "cca2": "UY",
+        "cca3": "URY",
+        "cioc": "URU",
+        "currency": [
+            "UYU"
+        ],
+        "callingCode": [
+            "598"
+        ],
+        "capital": "Montevideo",
+        "region": "Americas",
+        "subregion": "South America",
+        "status": true,
+        "emoji": "🇺🇾"
+    },
+    {
+        "name": {
+            "common": "Uzbekistan",
+            "official": "Republic of Uzbekistan",
+            "nativeName": {
+                "rus": {
+                    "official": "Республика Узбекистан",
+                    "common": "Узбекистан"
+                },
+                "uzb": {
+                    "official": "O'zbekiston Respublikasi",
+                    "common": "O‘zbekiston"
+                }
+            }
+        },
+        "cca2": "UZ",
+        "cca3": "UZB",
+        "cioc": "UZB",
+        "currency": [
+            "UZS"
+        ],
+        "callingCode": [
+            "998"
+        ],
+        "capital": "Tashkent",
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "status": true,
+        "emoji": "🇺🇿"
+    },
+    {
+        "name": {
+            "common": "Vanuatu",
+            "official": "Republic of Vanuatu",
+            "nativeName": {
+                "bis": {
+                    "official": "Ripablik blong Vanuatu",
+                    "common": "Vanuatu"
+                },
+                "eng": {
+                    "official": "Republic of Vanuatu",
+                    "common": "Vanuatu"
+                },
+                "fra": {
+                    "official": "République de Vanuatu",
+                    "common": "Vanuatu"
+                }
+            }
+        },
+        "cca2": "VU",
+        "cca3": "VUT",
+        "cioc": "VAN",
+        "currency": [
+            "VUV"
+        ],
+        "callingCode": [
+            "678"
+        ],
+        "capital": "Port Vila",
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "status": true,
+        "emoji": "🇻🇺"
+    },
+    {
+        "name": {
+            "common": "Venezuela",
+            "official": "Bolivarian Republic of Venezuela",
+            "nativeName": {
+                "spa": {
+                    "official": "República Bolivariana de Venezuela",
+                    "common": "Venezuela"
+                }
+            }
+        },
+        "cca2": "VE",
+        "cca3": "VEN",
+        "cioc": "VEN",
+        "currency": [
+            "VES"
+        ],
+        "callingCode": [
+            "58"
+        ],
+        "capital": "Caracas",
+        "region": "Americas",
+        "subregion": "South America",
+        "status": true,
+        "emoji": "🇻🇪"
+    },
+    {
+        "name": {
+            "common": "Vietnam",
+            "official": "Socialist Republic of Vietnam",
+            "nativeName": {
+                "vie": {
+                    "official": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+                    "common": "Việt Nam"
+                }
+            }
+        },
+        "cca2": "VN",
+        "cca3": "VNM",
+        "cioc": "VIE",
+        "currency": [
+            "VND"
+        ],
+        "callingCode": [
+            "84"
+        ],
+        "capital": "Hanoi",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "status": true,
+        "emoji": "🇻🇳"
+    },
+    {
+        "name": {
+            "common": "Wallis and Futuna",
+            "official": "Territory of the Wallis and Futuna Islands",
+            "nativeName": {
+                "fra": {
+                    "official": "Territoire des îles Wallis et Futuna",
+                    "common": "Wallis et Futuna"
+                }
+            }
+        },
+        "cca2": "WF",
+        "cca3": "WLF",
+        "cioc": "",
+        "currency": [
+            "XPF"
+        ],
+        "callingCode": [
+            "681"
+        ],
+        "capital": "Mata-Utu",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "status": false,
+        "emoji": "🇼🇫"
+    },
+    {
+        "name": {
+            "common": "Western Sahara",
+            "official": "Sahrawi Arab Democratic Republic",
+            "nativeName": {
+                "ber": {
+                    "official": "الجمهورية العربية الصحراوية الديمقراطية",
+                    "common": "الصحراء الغربية"
+                }
+            }
+        },
+        "cca2": "EH",
+        "cca3": "ESH",
+        "cioc": "",
+        "currency": [
+            "MAD",
+            "DZD",
+            "MRO"
+        ],
+        "callingCode": [
+            "212"
+        ],
+        "capital": "El Aaiún",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "status": false,
+        "emoji": "🇪🇭"
+    },
+    {
+        "name": {
+            "common": "Yemen",
+            "official": "Republic of Yemen",
+            "nativeName": {
+                "ara": {
+                    "official": "الجمهورية اليمنية",
+                    "common": "اليَمَن"
+                }
+            }
+        },
+        "cca2": "YE",
+        "cca3": "YEM",
+        "cioc": "YEM",
+        "currency": [
+            "YER"
+        ],
+        "callingCode": [
+            "967"
+        ],
+        "capital": "Sana'a",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "status": true,
+        "emoji": "🇾🇪"
+    },
+    {
+        "name": {
+            "common": "Zambia",
+            "official": "Republic of Zambia",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Zambia",
+                    "common": "Zambia"
+                }
+            }
+        },
+        "cca2": "ZM",
+        "cca3": "ZMB",
+        "cioc": "ZAM",
+        "currency": [
+            "ZMW"
+        ],
+        "callingCode": [
+            "260"
+        ],
+        "capital": "Lusaka",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "status": true,
+        "emoji": "🇿🇲"
+    },
+    {
+        "name": {
+            "common": "Zimbabwe",
+            "official": "Republic of Zimbabwe",
+            "nativeName": {
+                "bwg": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "eng": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "kck": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "sna": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "sot": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "toi": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "xho": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                },
+                "zib": {
+                    "official": "Republic of Zimbabwe",
+                    "common": "Zimbabwe"
+                }
+            }
+        },
+        "cca2": "ZW",
+        "cca3": "ZWE",
+        "cioc": "ZIM",
+        "currency": [
+            "ZWL"
+        ],
+        "callingCode": [
+            "263"
+        ],
+        "capital": "Harare",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "status": true,
+        "emoji": "🇿🇼"
+    }
+]
